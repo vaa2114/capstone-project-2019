@@ -1,8 +1,7 @@
 ## Capstone Faculty-Sponsored Project (FS#5)-- Fall 2019
 
 ### Faculty Sponsor(s):
-Jeffrey Shaman, Professor, Environmental Health SciencesMailman School of Public
-Health;Email:jls106@cumc.columbia.edu; Lab: https://www.columbia.edu/~jls106/
+Jeffrey Shaman, Professor, Environmental Health SciencesMailman School of Public Health; Email:jls106@cumc.columbia.edu; Lab: https://www.columbia.edu/~jls106/  
 Sasikiran Kandula, Senior Staff Associate, Environmental Health Sciences; Email:
 sk3542@cumc.columbia.edu
 
