@@ -11,13 +11,22 @@
 ### Generating simple reports:
 - Get started with data exploration - https://www.youtube.com/watch?v=LjwuQiDwMnM&feature=youtu.be
 - Steps:
-  - Select a measure. "Count of Events" (only one visibile to me)
+  - Select a measure. *"Count of Events"* (only one visibile to me)
   - Select Rows / Add filters: https://www.youtube.com/watch?v=_uGlGdwWa00&feature=youtu.be
   - Some useful rows/sub rows:
     - Alcohol-Drug Use Indicator
     - Complaint Reported By Dispatch
       - Overdose/Poisoning/Ingestion
     - Injury Information - Injury Cause ICDs.ICD Name
+      - Suicide related ICD Names:
+        - Intentional collision of ...
+        - Intentional fall from one ...
+        - Intentional self-harm by ...
+        - Poisoning by ..., intentional self-harm
+      - Opioid related ICD Names:
+        - Poisoning by, adverse effect of and underdosing of methadone/opium/cocaine/acetylsalicyclic acid/other opiods/synthetic narcotics etc
+        - Adverse effect of other opioids
+        - Poisoning by other opioids
     - Injury Information - Injury Cause ICDs.ICD 10
       - Opioid related ICD 10s:
         - https://www.unboundmedicine.com/icd/view/ICD-10-CM/949644/all/F11_10___Opioid_abuse__uncomplicated
@@ -26,7 +35,7 @@
     - Age Category
     - Race
     - Gender (etc)
- 
+
 ### Downloading Data:
 - Export to Excel (Options: Excel, Csv, ODC, PDF, HTML, Excel Pivot)
   
