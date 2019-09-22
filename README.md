@@ -30,8 +30,9 @@ forecasts of mortality trends, of which our group has considerable experience in
 diseases.
 Taken together, we believe these objectives would allow DSI students to translate data-science techniques
 from classroom to more applied settings and yield a demonstrable application that would be of value as they
-pursue employment opportunities, while creating a resource with significant public health utility.
-References 1. National Emergency Medical Services Information System. https://nemsis.org/what-is-nemsis/
+pursue employment opportunities, while creating a resource with significant public health utility.  
+
+**References:** 1. National Emergency Medical Services Information System. https://nemsis.org/what-is-nemsis/
 2. Centers for Disease Control and Prevention, National Center for Health Statistics (2017) Underlying Cause
 of Death 1999-2016 on CDC WONDER Online Database. http://wonder.cdc.gov/ucd-icd10.html. 3.
 https://nemsis.org/view-reports/public-reports/ems-data-cube/
