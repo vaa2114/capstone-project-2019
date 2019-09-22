@@ -35,7 +35,8 @@
     - Age Category
     - Race
     - Gender (etc)
-
+    - Year - Week - Day (Granularity)
+    
 ### Downloading Data:
 - Export to Excel (Options: Excel, Csv, ODC, PDF, HTML, Excel Pivot)
   
