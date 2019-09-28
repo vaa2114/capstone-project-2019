@@ -6,7 +6,7 @@
 - Watch intro video here - https://www.youtube.com/watch?reload=9&v=UaCvsFVG-JI&feature=youtu.be
 - **Nemsis cube versions**:
   - Nemsis v2 Public cube: Data from 2014 - 2016
-  - Nemsis v3 Public cube: Data from 2017 - 2018
+  - Nemsis v3 Public cube: Data from 2017 - today(updated frequently)
   
 ### Generating simple reports:
 - Get started with data exploration - https://www.youtube.com/watch?v=LjwuQiDwMnM&feature=youtu.be
