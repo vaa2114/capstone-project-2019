@@ -1,0 +1,108 @@
+---
+title: "Capstone Project"
+author: "Namson Ngo-Le"
+date: "October 4, 2019"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readr)
+library(zoo)
+library(lubridate)
+library(data.table)
+library(tidyverse)
+library(ggthemes)
+```
+
+
+```{r import, include =FALSE}
+data <- read.csv("C:/Users/NAMSON/Desktop/N.N.L/capstone-project-2019/data/data_20190929.csv")
+colnames(data)[colnames(data) == 'Primary.Impression.ICD.10'] <- 'code'
+colnames(data)[colnames(data) == 'Primary.Impression.ICD.Name'] <- 'imp'
+colnames(data)[colnames(data) == 'NHTSA.Regions'] <- 'region'
+```
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+data$dates <- as.Date(data$'Event.Date', '%Y/%m/%d')
+data$month <- as.yearmon(data$dates)
+data$yr <- year(data$dates)
+data$icd <- substr(data$code, 0, 3)
+dat <- data %>% count(region,icd,month)
+dat <- dat[!(dat$icd=="T14"),]
+DT <- data.table(dat)
+
+DT$icd <- NULL
+dtable <- DT[, lapply(.SD, sum), by=list(region, month)]
+
+cdc <- read.delim("C:/Users/NAMSON/Desktop/N.N.L/capstone-project-2019/data/cdc_opioids_region.txt")
+names(cdc)[names(cdc) == 'HHS.Region.Code'] <- 'region'
+cdc <- head(cdc,-37)
+
+dtable$region <- gsub("Region 1", "HHS1", dtable$region)
+dtable$region <- gsub("Region 2", "HHS2", dtable$region)
+dtable$region <- gsub("Region 3", "HHS3", dtable$region)
+dtable$region <- gsub("Region 4", "HHS4", dtable$region)
+dtable$region <- gsub("Region 5", "HHS5", dtable$region)
+dtable$region <- gsub("Region 6", "HHS6", dtable$region)
+dtable$region <- gsub("Region 7", "HHS7", dtable$region)
+dtable$region <- gsub("Region 8", "HHS8", dtable$region)
+dtable$region <- gsub("Region 9", "HHS9", dtable$region)
+dtable$region <- gsub("Region 10", "HHS10", dtable$region)
+
+cdc$month <- as.yearmon(cdc$Month.Code, "%Y/%m")
+cdc$month <- as.Date(as.yearmon(cdc$month, "%Y/%m"))
+cdc$month <- as.yearmon(cdc$month)
+
+new <- cdc %>% inner_join(dtable, by=c("region","month"))
+names(new)[names(new) == 'n'] <- 'EMS Incidents'
+new$month <- as.Date(as.yearmon(new$month), frac = 1)
+
+news <- c("HHS.Region", "month", "Deaths", "EMS Incidents")
+newd <- new[news]
+names(newd)[names(newd) == 'Deaths'] <- 'CDC Deaths'
+```
+
+```{r correlation}
+cor(newd$`CDC Deaths`,newd$`EMS Incidents`)
+```
+
+
+```{r visualization, echo = FALSE}
+nw <- melt(newd, id.vars=c('HHS.Region', 'month'),var='Type')
+
+ggplot(data = nw, mapping = aes(x = month, y = value, color = Type)) +
+  geom_line() +
+  facet_wrap(facets =  vars(HHS.Region)) +
+theme_fivethirtyeight() +  
+    theme( axis.text = element_text( size = 12 ),
+           axis.text.x = element_text( size = 9,angle = 45, vjust = 1, hjust=1 ),
+           axis.title = element_text( size = 24, face = "bold" ),
+           legend.position= c(.75,.15), plot.title = element_text(hjust = 0.5), 
+           strip.text = element_text(size = 12)) + ggtitle("Comparison of Opioid-Related Deaths/EMS Incidents for 2017")
+
+# ggplot(data = nw, mapping = aes(x = month, y = value, color = Type)) +
+#   geom_line() +
+#   facet_grid(rows = vars(Type), cols =  vars(HHS.Region)) +
+#     theme_fivethirtyeight() + 
+#     theme( axis.text = element_text( size = 10 ),
+#            axis.text.x = element_text( size = 10,angle = 45, vjust = 1, hjust=1 ),
+#            axis.title = element_text( size = 16, face = "bold" ),
+#             plot.title = element_text(hjust = 0.5), 
+#            strip.text = element_text(size = 10)) + ggtitle("Comparison of Opioid-Related Deaths/EMS Incidents for 2017")
+# 
+# ggplot(data = nw, mapping = aes(x = month, y = value, color = Type)) +
+#   geom_line() +
+#   facet_grid(cols = vars(HHS.Region)) +
+#     theme_fivethirtyeight() + 
+#     theme( axis.text = element_text( size = 10 ),
+#            axis.text.x = element_text( size = 10,angle = 45, vjust = 1, hjust=1 ),
+#            axis.title = element_text( size = 16, face = "bold" ),
+#             plot.title = element_text(hjust = 0.5), 
+#            strip.text = element_text(size = 10)) + ggtitle("Comparison of Opioid-Related Deaths/EMS Incidents for 2017")
+```
+

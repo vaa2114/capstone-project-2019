@@ -1,0 +1,1025 @@
+"Notes"	"Multiple Cause of death"	"Multiple Cause of death Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Jan., 2014"	"2014/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Feb., 2014"	"2014/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Mar., 2014"	"2014/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Apr., 2014"	"2014/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"May, 2014"	"2014/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Jun., 2014"	"2014/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Jul., 2014"	"2014/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Aug., 2014"	"2014/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Sep., 2014"	"2014/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Oct., 2014"	"2014/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Nov., 2014"	"2014/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Dec., 2014"	"2014/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Jan., 2015"	"2015/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Feb., 2015"	"2015/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Mar., 2015"	"2015/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Apr., 2015"	"2015/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"May, 2015"	"2015/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Jun., 2015"	"2015/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Jul., 2015"	"2015/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Aug., 2015"	"2015/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Sep., 2015"	"2015/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Oct., 2015"	"2015/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Nov., 2015"	"2015/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Dec., 2015"	"2015/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Jan., 2016"	"2016/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Feb., 2016"	"2016/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Mar., 2016"	"2016/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Apr., 2016"	"2016/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"May, 2016"	"2016/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Jun., 2016"	"2016/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Jul., 2016"	"2016/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Aug., 2016"	"2016/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Sep., 2016"	"2016/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Oct., 2016"	"2016/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Nov., 2016"	"2016/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Dec., 2016"	"2016/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Jan., 2017"	"2017/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Feb., 2017"	"2017/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Mar., 2017"	"2017/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Apr., 2017"	"2017/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"May, 2017"	"2017/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Jun., 2017"	"2017/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Jul., 2017"	"2017/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Aug., 2017"	"2017/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Sep., 2017"	"2017/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Oct., 2017"	"2017/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Nov., 2017"	"2017/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"	"Dec., 2017"	"2017/12"	0	Not Applicable	Not Applicable
+"Total"	"Mental and behavioural disorders due to use of opioids, acute intoxication"	"F11.0"			0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Jan., 2014"	"2014/01"	95	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Feb., 2014"	"2014/02"	88	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Mar., 2014"	"2014/03"	70	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Apr., 2014"	"2014/04"	76	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"May, 2014"	"2014/05"	74	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Jun., 2014"	"2014/06"	95	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Jul., 2014"	"2014/07"	98	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Aug., 2014"	"2014/08"	84	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Sep., 2014"	"2014/09"	87	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Oct., 2014"	"2014/10"	80	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Nov., 2014"	"2014/11"	81	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Dec., 2014"	"2014/12"	95	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Jan., 2015"	"2015/01"	100	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Feb., 2015"	"2015/02"	94	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Mar., 2015"	"2015/03"	87	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Apr., 2015"	"2015/04"	108	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"May, 2015"	"2015/05"	88	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Jun., 2015"	"2015/06"	95	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Jul., 2015"	"2015/07"	104	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Aug., 2015"	"2015/08"	105	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Sep., 2015"	"2015/09"	97	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Oct., 2015"	"2015/10"	114	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Nov., 2015"	"2015/11"	120	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Dec., 2015"	"2015/12"	102	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Jan., 2016"	"2016/01"	107	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Feb., 2016"	"2016/02"	123	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Mar., 2016"	"2016/03"	130	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Apr., 2016"	"2016/04"	132	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"May, 2016"	"2016/05"	121	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Jun., 2016"	"2016/06"	123	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Jul., 2016"	"2016/07"	142	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Aug., 2016"	"2016/08"	112	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Sep., 2016"	"2016/09"	131	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Oct., 2016"	"2016/10"	104	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Nov., 2016"	"2016/11"	128	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Dec., 2016"	"2016/12"	124	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Jan., 2017"	"2017/01"	129	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Feb., 2017"	"2017/02"	119	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Mar., 2017"	"2017/03"	131	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Apr., 2017"	"2017/04"	108	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"May, 2017"	"2017/05"	87	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Jun., 2017"	"2017/06"	97	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Jul., 2017"	"2017/07"	119	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Aug., 2017"	"2017/08"	113	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Sep., 2017"	"2017/09"	90	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Oct., 2017"	"2017/10"	93	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Nov., 2017"	"2017/11"	122	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"	"Dec., 2017"	"2017/12"	129	Not Applicable	Not Applicable
+"Total"	"Mental and behavioural disorders due to use of opioids, harmful use"	"F11.1"			5051	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Jan., 2014"	"2014/01"	23	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Feb., 2014"	"2014/02"	20	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Mar., 2014"	"2014/03"	23	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Apr., 2014"	"2014/04"	19	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"May, 2014"	"2014/05"	17	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Jun., 2014"	"2014/06"	23	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Jul., 2014"	"2014/07"	18	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Aug., 2014"	"2014/08"	18	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Sep., 2014"	"2014/09"	18	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Oct., 2014"	"2014/10"	18	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Nov., 2014"	"2014/11"	13	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Dec., 2014"	"2014/12"	24	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Jan., 2015"	"2015/01"	35	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Feb., 2015"	"2015/02"	18	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Mar., 2015"	"2015/03"	21	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Apr., 2015"	"2015/04"	32	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"May, 2015"	"2015/05"	25	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Jun., 2015"	"2015/06"	24	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Jul., 2015"	"2015/07"	23	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Aug., 2015"	"2015/08"	44	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Sep., 2015"	"2015/09"	26	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Oct., 2015"	"2015/10"	27	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Nov., 2015"	"2015/11"	33	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Dec., 2015"	"2015/12"	26	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Jan., 2016"	"2016/01"	33	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Feb., 2016"	"2016/02"	34	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Mar., 2016"	"2016/03"	37	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Apr., 2016"	"2016/04"	27	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"May, 2016"	"2016/05"	26	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Jun., 2016"	"2016/06"	25	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Jul., 2016"	"2016/07"	36	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Aug., 2016"	"2016/08"	29	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Sep., 2016"	"2016/09"	29	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Oct., 2016"	"2016/10"	25	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Nov., 2016"	"2016/11"	41	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Dec., 2016"	"2016/12"	29	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Jan., 2017"	"2017/01"	49	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Feb., 2017"	"2017/02"	48	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Mar., 2017"	"2017/03"	44	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Apr., 2017"	"2017/04"	49	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"May, 2017"	"2017/05"	30	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Jun., 2017"	"2017/06"	26	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Jul., 2017"	"2017/07"	50	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Aug., 2017"	"2017/08"	32	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Sep., 2017"	"2017/09"	39	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Oct., 2017"	"2017/10"	43	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Nov., 2017"	"2017/11"	37	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"	"Dec., 2017"	"2017/12"	46	Not Applicable	Not Applicable
+"Total"	"Mental and behavioural disorders due to use of opioids, dependence syndrome"	"F11.2"			1432	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Jan., 2014"	"2014/01"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Feb., 2014"	"2014/02"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Mar., 2014"	"2014/03"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Apr., 2014"	"2014/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"May, 2014"	"2014/05"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Jun., 2014"	"2014/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Jul., 2014"	"2014/07"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Aug., 2014"	"2014/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Sep., 2014"	"2014/09"	2	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Oct., 2014"	"2014/10"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Nov., 2014"	"2014/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Dec., 2014"	"2014/12"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Jan., 2015"	"2015/01"	2	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Feb., 2015"	"2015/02"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Mar., 2015"	"2015/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Apr., 2015"	"2015/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"May, 2015"	"2015/05"	3	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Jun., 2015"	"2015/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Jul., 2015"	"2015/07"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Aug., 2015"	"2015/08"	2	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Sep., 2015"	"2015/09"	3	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Oct., 2015"	"2015/10"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Nov., 2015"	"2015/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Dec., 2015"	"2015/12"	3	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Jan., 2016"	"2016/01"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Feb., 2016"	"2016/02"	4	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Mar., 2016"	"2016/03"	3	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Apr., 2016"	"2016/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"May, 2016"	"2016/05"	4	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Jun., 2016"	"2016/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Jul., 2016"	"2016/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Aug., 2016"	"2016/08"	3	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Sep., 2016"	"2016/09"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Oct., 2016"	"2016/10"	4	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Nov., 2016"	"2016/11"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Dec., 2016"	"2016/12"	2	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Jan., 2017"	"2017/01"	2	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Feb., 2017"	"2017/02"	3	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Mar., 2017"	"2017/03"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Apr., 2017"	"2017/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"May, 2017"	"2017/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Jun., 2017"	"2017/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Jul., 2017"	"2017/07"	4	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Aug., 2017"	"2017/08"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Sep., 2017"	"2017/09"	3	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Oct., 2017"	"2017/10"	2	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Nov., 2017"	"2017/11"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"	"Dec., 2017"	"2017/12"	1	Not Applicable	Not Applicable
+"Total"	"Mental and behavioural disorders due to use of opioids, withdrawal state"	"F11.3"			66	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Jan., 2014"	"2014/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Feb., 2014"	"2014/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Mar., 2014"	"2014/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Apr., 2014"	"2014/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"May, 2014"	"2014/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Jun., 2014"	"2014/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Jul., 2014"	"2014/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Aug., 2014"	"2014/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Sep., 2014"	"2014/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Oct., 2014"	"2014/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Nov., 2014"	"2014/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Dec., 2014"	"2014/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Jan., 2015"	"2015/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Feb., 2015"	"2015/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Mar., 2015"	"2015/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Apr., 2015"	"2015/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"May, 2015"	"2015/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Jun., 2015"	"2015/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Jul., 2015"	"2015/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Aug., 2015"	"2015/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Sep., 2015"	"2015/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Oct., 2015"	"2015/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Nov., 2015"	"2015/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Dec., 2015"	"2015/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Jan., 2016"	"2016/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Feb., 2016"	"2016/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Mar., 2016"	"2016/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Apr., 2016"	"2016/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"May, 2016"	"2016/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Jun., 2016"	"2016/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Jul., 2016"	"2016/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Aug., 2016"	"2016/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Sep., 2016"	"2016/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Oct., 2016"	"2016/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Nov., 2016"	"2016/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Dec., 2016"	"2016/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Jan., 2017"	"2017/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Feb., 2017"	"2017/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Mar., 2017"	"2017/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Apr., 2017"	"2017/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"May, 2017"	"2017/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Jun., 2017"	"2017/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Jul., 2017"	"2017/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Aug., 2017"	"2017/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Sep., 2017"	"2017/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Oct., 2017"	"2017/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Nov., 2017"	"2017/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"	"Dec., 2017"	"2017/12"	0	Not Applicable	Not Applicable
+"Total"	"Mental and behavioural disorders due to use of opioids, withdrawal state with delirium"	"F11.4"			0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Jan., 2014"	"2014/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Feb., 2014"	"2014/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Mar., 2014"	"2014/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Apr., 2014"	"2014/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"May, 2014"	"2014/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Jun., 2014"	"2014/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Jul., 2014"	"2014/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Aug., 2014"	"2014/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Sep., 2014"	"2014/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Oct., 2014"	"2014/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Nov., 2014"	"2014/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Dec., 2014"	"2014/12"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Jan., 2015"	"2015/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Feb., 2015"	"2015/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Mar., 2015"	"2015/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Apr., 2015"	"2015/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"May, 2015"	"2015/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Jun., 2015"	"2015/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Jul., 2015"	"2015/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Aug., 2015"	"2015/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Sep., 2015"	"2015/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Oct., 2015"	"2015/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Nov., 2015"	"2015/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Dec., 2015"	"2015/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Jan., 2016"	"2016/01"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Feb., 2016"	"2016/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Mar., 2016"	"2016/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Apr., 2016"	"2016/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"May, 2016"	"2016/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Jun., 2016"	"2016/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Jul., 2016"	"2016/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Aug., 2016"	"2016/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Sep., 2016"	"2016/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Oct., 2016"	"2016/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Nov., 2016"	"2016/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Dec., 2016"	"2016/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Jan., 2017"	"2017/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Feb., 2017"	"2017/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Mar., 2017"	"2017/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Apr., 2017"	"2017/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"May, 2017"	"2017/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Jun., 2017"	"2017/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Jul., 2017"	"2017/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Aug., 2017"	"2017/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Sep., 2017"	"2017/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Oct., 2017"	"2017/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Nov., 2017"	"2017/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"	"Dec., 2017"	"2017/12"	0	Not Applicable	Not Applicable
+"Total"	"Mental and behavioural disorders due to use of opioids, psychotic disorder"	"F11.5"			2	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Jan., 2014"	"2014/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Feb., 2014"	"2014/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Mar., 2014"	"2014/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Apr., 2014"	"2014/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"May, 2014"	"2014/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Jun., 2014"	"2014/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Jul., 2014"	"2014/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Aug., 2014"	"2014/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Sep., 2014"	"2014/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Oct., 2014"	"2014/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Nov., 2014"	"2014/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Dec., 2014"	"2014/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Jan., 2015"	"2015/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Feb., 2015"	"2015/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Mar., 2015"	"2015/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Apr., 2015"	"2015/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"May, 2015"	"2015/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Jun., 2015"	"2015/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Jul., 2015"	"2015/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Aug., 2015"	"2015/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Sep., 2015"	"2015/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Oct., 2015"	"2015/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Nov., 2015"	"2015/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Dec., 2015"	"2015/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Jan., 2016"	"2016/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Feb., 2016"	"2016/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Mar., 2016"	"2016/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Apr., 2016"	"2016/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"May, 2016"	"2016/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Jun., 2016"	"2016/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Jul., 2016"	"2016/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Aug., 2016"	"2016/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Sep., 2016"	"2016/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Oct., 2016"	"2016/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Nov., 2016"	"2016/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Dec., 2016"	"2016/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Jan., 2017"	"2017/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Feb., 2017"	"2017/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Mar., 2017"	"2017/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Apr., 2017"	"2017/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"May, 2017"	"2017/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Jun., 2017"	"2017/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Jul., 2017"	"2017/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Aug., 2017"	"2017/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Sep., 2017"	"2017/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Oct., 2017"	"2017/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Nov., 2017"	"2017/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"	"Dec., 2017"	"2017/12"	0	Not Applicable	Not Applicable
+"Total"	"Mental and behavioural disorders due to use of opioids, amnesic syndrome"	"F11.6"			0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Jan., 2014"	"2014/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Feb., 2014"	"2014/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Mar., 2014"	"2014/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Apr., 2014"	"2014/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"May, 2014"	"2014/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Jun., 2014"	"2014/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Jul., 2014"	"2014/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Aug., 2014"	"2014/08"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Sep., 2014"	"2014/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Oct., 2014"	"2014/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Nov., 2014"	"2014/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Dec., 2014"	"2014/12"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Jan., 2015"	"2015/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Feb., 2015"	"2015/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Mar., 2015"	"2015/03"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Apr., 2015"	"2015/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"May, 2015"	"2015/05"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Jun., 2015"	"2015/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Jul., 2015"	"2015/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Aug., 2015"	"2015/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Sep., 2015"	"2015/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Oct., 2015"	"2015/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Nov., 2015"	"2015/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Dec., 2015"	"2015/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Jan., 2016"	"2016/01"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Feb., 2016"	"2016/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Mar., 2016"	"2016/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Apr., 2016"	"2016/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"May, 2016"	"2016/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Jun., 2016"	"2016/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Jul., 2016"	"2016/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Aug., 2016"	"2016/08"	3	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Sep., 2016"	"2016/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Oct., 2016"	"2016/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Nov., 2016"	"2016/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Dec., 2016"	"2016/12"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Jan., 2017"	"2017/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Feb., 2017"	"2017/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Mar., 2017"	"2017/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Apr., 2017"	"2017/04"	2	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"May, 2017"	"2017/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Jun., 2017"	"2017/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Jul., 2017"	"2017/07"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Aug., 2017"	"2017/08"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Sep., 2017"	"2017/09"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Oct., 2017"	"2017/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Nov., 2017"	"2017/11"	2	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"	"Dec., 2017"	"2017/12"	0	Not Applicable	Not Applicable
+"Total"	"Mental and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder"	"F11.7"			16	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Jan., 2014"	"2014/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Feb., 2014"	"2014/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Mar., 2014"	"2014/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Apr., 2014"	"2014/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"May, 2014"	"2014/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Jun., 2014"	"2014/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Jul., 2014"	"2014/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Aug., 2014"	"2014/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Sep., 2014"	"2014/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Oct., 2014"	"2014/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Nov., 2014"	"2014/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Dec., 2014"	"2014/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Jan., 2015"	"2015/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Feb., 2015"	"2015/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Mar., 2015"	"2015/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Apr., 2015"	"2015/04"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"May, 2015"	"2015/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Jun., 2015"	"2015/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Jul., 2015"	"2015/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Aug., 2015"	"2015/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Sep., 2015"	"2015/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Oct., 2015"	"2015/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Nov., 2015"	"2015/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Dec., 2015"	"2015/12"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Jan., 2016"	"2016/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Feb., 2016"	"2016/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Mar., 2016"	"2016/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Apr., 2016"	"2016/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"May, 2016"	"2016/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Jun., 2016"	"2016/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Jul., 2016"	"2016/07"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Aug., 2016"	"2016/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Sep., 2016"	"2016/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Oct., 2016"	"2016/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Nov., 2016"	"2016/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Dec., 2016"	"2016/12"	1	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Jan., 2017"	"2017/01"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Feb., 2017"	"2017/02"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Mar., 2017"	"2017/03"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Apr., 2017"	"2017/04"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"May, 2017"	"2017/05"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Jun., 2017"	"2017/06"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Jul., 2017"	"2017/07"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Aug., 2017"	"2017/08"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Sep., 2017"	"2017/09"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Oct., 2017"	"2017/10"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Nov., 2017"	"2017/11"	0	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"	"Dec., 2017"	"2017/12"	0	Not Applicable	Not Applicable
+"Total"	"Mental and behavioural disorders due to use of opioids, other mental and behavioural disorders"	"F11.8"			3	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Jan., 2014"	"2014/01"	235	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Feb., 2014"	"2014/02"	245	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Mar., 2014"	"2014/03"	290	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Apr., 2014"	"2014/04"	257	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"May, 2014"	"2014/05"	290	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Jun., 2014"	"2014/06"	294	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Jul., 2014"	"2014/07"	287	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Aug., 2014"	"2014/08"	312	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Sep., 2014"	"2014/09"	301	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Oct., 2014"	"2014/10"	311	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Nov., 2014"	"2014/11"	324	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Dec., 2014"	"2014/12"	339	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Jan., 2015"	"2015/01"	325	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Feb., 2015"	"2015/02"	354	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Mar., 2015"	"2015/03"	320	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Apr., 2015"	"2015/04"	347	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"May, 2015"	"2015/05"	311	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Jun., 2015"	"2015/06"	296	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Jul., 2015"	"2015/07"	319	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Aug., 2015"	"2015/08"	354	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Sep., 2015"	"2015/09"	300	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Oct., 2015"	"2015/10"	296	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Nov., 2015"	"2015/11"	294	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Dec., 2015"	"2015/12"	321	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Jan., 2016"	"2016/01"	366	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Feb., 2016"	"2016/02"	404	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Mar., 2016"	"2016/03"	489	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Apr., 2016"	"2016/04"	445	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"May, 2016"	"2016/05"	426	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Jun., 2016"	"2016/06"	400	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Jul., 2016"	"2016/07"	431	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Aug., 2016"	"2016/08"	420	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Sep., 2016"	"2016/09"	486	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Oct., 2016"	"2016/10"	502	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Nov., 2016"	"2016/11"	488	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Dec., 2016"	"2016/12"	540	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Jan., 2017"	"2017/01"	469	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Feb., 2017"	"2017/02"	440	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Mar., 2017"	"2017/03"	468	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Apr., 2017"	"2017/04"	436	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"May, 2017"	"2017/05"	434	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Jun., 2017"	"2017/06"	403	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Jul., 2017"	"2017/07"	412	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Aug., 2017"	"2017/08"	433	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Sep., 2017"	"2017/09"	401	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Oct., 2017"	"2017/10"	413	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Nov., 2017"	"2017/11"	433	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"	"Dec., 2017"	"2017/12"	454	Not Applicable	Not Applicable
+"Total"	"Mental and behavioural disorders due to use of opioids, unspecified mental and behavioural disorder"	"F11.9"			17915	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Jan., 2014"	"2014/01"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Feb., 2014"	"2014/02"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Mar., 2014"	"2014/03"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Apr., 2014"	"2014/04"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"May, 2014"	"2014/05"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Jun., 2014"	"2014/06"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Jul., 2014"	"2014/07"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Aug., 2014"	"2014/08"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Sep., 2014"	"2014/09"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Oct., 2014"	"2014/10"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Nov., 2014"	"2014/11"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Dec., 2014"	"2014/12"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Jan., 2015"	"2015/01"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Feb., 2015"	"2015/02"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Mar., 2015"	"2015/03"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Apr., 2015"	"2015/04"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"May, 2015"	"2015/05"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Jun., 2015"	"2015/06"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Jul., 2015"	"2015/07"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Aug., 2015"	"2015/08"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Sep., 2015"	"2015/09"	1	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Oct., 2015"	"2015/10"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Nov., 2015"	"2015/11"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Dec., 2015"	"2015/12"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Jan., 2016"	"2016/01"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Feb., 2016"	"2016/02"	1	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Mar., 2016"	"2016/03"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Apr., 2016"	"2016/04"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"May, 2016"	"2016/05"	2	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Jun., 2016"	"2016/06"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Jul., 2016"	"2016/07"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Aug., 2016"	"2016/08"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Sep., 2016"	"2016/09"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Oct., 2016"	"2016/10"	1	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Nov., 2016"	"2016/11"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Dec., 2016"	"2016/12"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Jan., 2017"	"2017/01"	1	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Feb., 2017"	"2017/02"	1	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Mar., 2017"	"2017/03"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Apr., 2017"	"2017/04"	1	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"May, 2017"	"2017/05"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Jun., 2017"	"2017/06"	1	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Jul., 2017"	"2017/07"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Aug., 2017"	"2017/08"	2	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Sep., 2017"	"2017/09"	1	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Oct., 2017"	"2017/10"	1	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Nov., 2017"	"2017/11"	0	Not Applicable	Not Applicable
+	"Opium"	"T40.0"	"Dec., 2017"	"2017/12"	0	Not Applicable	Not Applicable
+"Total"	"Opium"	"T40.0"			13	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Jan., 2014"	"2014/01"	809	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Feb., 2014"	"2014/02"	784	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Mar., 2014"	"2014/03"	901	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Apr., 2014"	"2014/04"	767	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"May, 2014"	"2014/05"	898	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Jun., 2014"	"2014/06"	862	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Jul., 2014"	"2014/07"	932	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Aug., 2014"	"2014/08"	941	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Sep., 2014"	"2014/09"	919	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Oct., 2014"	"2014/10"	1028	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Nov., 2014"	"2014/11"	907	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Dec., 2014"	"2014/12"	1006	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Jan., 2015"	"2015/01"	988	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Feb., 2015"	"2015/02"	989	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Mar., 2015"	"2015/03"	1076	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Apr., 2015"	"2015/04"	1073	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"May, 2015"	"2015/05"	1091	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Jun., 2015"	"2015/06"	986	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Jul., 2015"	"2015/07"	1107	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Aug., 2015"	"2015/08"	1148	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Sep., 2015"	"2015/09"	1244	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Oct., 2015"	"2015/10"	1193	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Nov., 2015"	"2015/11"	1183	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Dec., 2015"	"2015/12"	1072	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Jan., 2016"	"2016/01"	1164	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Feb., 2016"	"2016/02"	1262	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Mar., 2016"	"2016/03"	1369	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Apr., 2016"	"2016/04"	1330	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"May, 2016"	"2016/05"	1250	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Jun., 2016"	"2016/06"	1231	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Jul., 2016"	"2016/07"	1392	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Aug., 2016"	"2016/08"	1330	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Sep., 2016"	"2016/09"	1301	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Oct., 2016"	"2016/10"	1256	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Nov., 2016"	"2016/11"	1343	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Dec., 2016"	"2016/12"	1489	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Jan., 2017"	"2017/01"	1477	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Feb., 2017"	"2017/02"	1343	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Mar., 2017"	"2017/03"	1411	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Apr., 2017"	"2017/04"	1307	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"May, 2017"	"2017/05"	1378	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Jun., 2017"	"2017/06"	1252	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Jul., 2017"	"2017/07"	1274	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Aug., 2017"	"2017/08"	1288	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Sep., 2017"	"2017/09"	1261	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Oct., 2017"	"2017/10"	1207	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Nov., 2017"	"2017/11"	1186	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Dec., 2017"	"2017/12"	1306	Not Applicable	Not Applicable
+"Total"	"Heroin"	"T40.1"			55311	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Jan., 2014"	"2014/01"	1105	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Feb., 2014"	"2014/02"	1091	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Mar., 2014"	"2014/03"	1133	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Apr., 2014"	"2014/04"	1007	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"May, 2014"	"2014/05"	1008	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Jun., 2014"	"2014/06"	991	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Jul., 2014"	"2014/07"	1068	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Aug., 2014"	"2014/08"	1055	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Sep., 2014"	"2014/09"	1030	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Oct., 2014"	"2014/10"	1052	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Nov., 2014"	"2014/11"	1092	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Dec., 2014"	"2014/12"	1025	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Jan., 2015"	"2015/01"	1208	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Feb., 2015"	"2015/02"	1060	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Mar., 2015"	"2015/03"	1173	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Apr., 2015"	"2015/04"	1106	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"May, 2015"	"2015/05"	1126	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Jun., 2015"	"2015/06"	1092	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Jul., 2015"	"2015/07"	1076	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Aug., 2015"	"2015/08"	1146	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Sep., 2015"	"2015/09"	1103	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Oct., 2015"	"2015/10"	1119	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Nov., 2015"	"2015/11"	1043	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Dec., 2015"	"2015/12"	1042	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Jan., 2016"	"2016/01"	1187	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Feb., 2016"	"2016/02"	1213	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Mar., 2016"	"2016/03"	1349	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Apr., 2016"	"2016/04"	1321	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"May, 2016"	"2016/05"	1231	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Jun., 2016"	"2016/06"	1253	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Jul., 2016"	"2016/07"	1255	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Aug., 2016"	"2016/08"	1278	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Sep., 2016"	"2016/09"	1193	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Oct., 2016"	"2016/10"	1264	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Nov., 2016"	"2016/11"	1258	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Dec., 2016"	"2016/12"	1312	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Jan., 2017"	"2017/01"	1382	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Feb., 2017"	"2017/02"	1272	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Mar., 2017"	"2017/03"	1385	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Apr., 2017"	"2017/04"	1371	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"May, 2017"	"2017/05"	1369	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Jun., 2017"	"2017/06"	1215	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Jul., 2017"	"2017/07"	1279	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Aug., 2017"	"2017/08"	1212	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Sep., 2017"	"2017/09"	1173	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Oct., 2017"	"2017/10"	1154	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Nov., 2017"	"2017/11"	1147	Not Applicable	Not Applicable
+	"Other opioids"	"T40.2"	"Dec., 2017"	"2017/12"	1156	Not Applicable	Not Applicable
+"Total"	"Other opioids"	"T40.2"			56180	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Jan., 2014"	"2014/01"	332	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Feb., 2014"	"2014/02"	337	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Mar., 2014"	"2014/03"	295	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Apr., 2014"	"2014/04"	269	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"May, 2014"	"2014/05"	305	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Jun., 2014"	"2014/06"	280	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Jul., 2014"	"2014/07"	306	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Aug., 2014"	"2014/08"	277	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Sep., 2014"	"2014/09"	265	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Oct., 2014"	"2014/10"	294	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Nov., 2014"	"2014/11"	304	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Dec., 2014"	"2014/12"	276	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Jan., 2015"	"2015/01"	338	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Feb., 2015"	"2015/02"	286	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Mar., 2015"	"2015/03"	312	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Apr., 2015"	"2015/04"	281	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"May, 2015"	"2015/05"	325	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Jun., 2015"	"2015/06"	248	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Jul., 2015"	"2015/07"	251	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Aug., 2015"	"2015/08"	284	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Sep., 2015"	"2015/09"	308	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Oct., 2015"	"2015/10"	281	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Nov., 2015"	"2015/11"	241	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Dec., 2015"	"2015/12"	251	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Jan., 2016"	"2016/01"	304	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Feb., 2016"	"2016/02"	301	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Mar., 2016"	"2016/03"	308	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Apr., 2016"	"2016/04"	330	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"May, 2016"	"2016/05"	296	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Jun., 2016"	"2016/06"	314	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Jul., 2016"	"2016/07"	296	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Aug., 2016"	"2016/08"	286	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Sep., 2016"	"2016/09"	257	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Oct., 2016"	"2016/10"	282	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Nov., 2016"	"2016/11"	278	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Dec., 2016"	"2016/12"	268	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Jan., 2017"	"2017/01"	303	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Feb., 2017"	"2017/02"	272	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Mar., 2017"	"2017/03"	313	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Apr., 2017"	"2017/04"	279	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"May, 2017"	"2017/05"	284	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Jun., 2017"	"2017/06"	259	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Jul., 2017"	"2017/07"	264	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Aug., 2017"	"2017/08"	267	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Sep., 2017"	"2017/09"	276	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Oct., 2017"	"2017/10"	255	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Nov., 2017"	"2017/11"	272	Not Applicable	Not Applicable
+	"Methadone"	"T40.3"	"Dec., 2017"	"2017/12"	292	Not Applicable	Not Applicable
+"Total"	"Methadone"	"T40.3"			13802	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Jan., 2014"	"2014/01"	517	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Feb., 2014"	"2014/02"	435	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Mar., 2014"	"2014/03"	472	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Apr., 2014"	"2014/04"	377	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"May, 2014"	"2014/05"	416	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Jun., 2014"	"2014/06"	419	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Jul., 2014"	"2014/07"	424	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Aug., 2014"	"2014/08"	418	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Sep., 2014"	"2014/09"	433	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Oct., 2014"	"2014/10"	564	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Nov., 2014"	"2014/11"	578	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Dec., 2014"	"2014/12"	642	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Jan., 2015"	"2015/01"	719	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Feb., 2015"	"2015/02"	748	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Mar., 2015"	"2015/03"	791	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Apr., 2015"	"2015/04"	871	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"May, 2015"	"2015/05"	813	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Jun., 2015"	"2015/06"	729	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Jul., 2015"	"2015/07"	757	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Aug., 2015"	"2015/08"	756	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Sep., 2015"	"2015/09"	889	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Oct., 2015"	"2015/10"	1003	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Nov., 2015"	"2015/11"	861	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Dec., 2015"	"2015/12"	866	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Jan., 2016"	"2016/01"	1056	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Feb., 2016"	"2016/02"	1403	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Mar., 2016"	"2016/03"	1550	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Apr., 2016"	"2016/04"	1564	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"May, 2016"	"2016/05"	1571	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Jun., 2016"	"2016/06"	1485	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Jul., 2016"	"2016/07"	1639	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Aug., 2016"	"2016/08"	1604	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Sep., 2016"	"2016/09"	1733	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Oct., 2016"	"2016/10"	1907	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Nov., 2016"	"2016/11"	2018	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Dec., 2016"	"2016/12"	2190	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Jan., 2017"	"2017/01"	2480	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Feb., 2017"	"2017/02"	2312	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Mar., 2017"	"2017/03"	2380	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Apr., 2017"	"2017/04"	2270	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"May, 2017"	"2017/05"	2372	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Jun., 2017"	"2017/06"	2371	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Jul., 2017"	"2017/07"	2316	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Aug., 2017"	"2017/08"	2428	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Sep., 2017"	"2017/09"	2514	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Oct., 2017"	"2017/10"	2433	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Nov., 2017"	"2017/11"	2419	Not Applicable	Not Applicable
+	"Other synthetic narcotics"	"T40.4"	"Dec., 2017"	"2017/12"	2574	Not Applicable	Not Applicable
+"Total"	"Other synthetic narcotics"	"T40.4"			64087	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Jan., 2014"	"2014/01"	473	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Feb., 2014"	"2014/02"	508	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Mar., 2014"	"2014/03"	543	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Apr., 2014"	"2014/04"	444	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"May, 2014"	"2014/05"	516	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Jun., 2014"	"2014/06"	503	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Jul., 2014"	"2014/07"	491	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Aug., 2014"	"2014/08"	502	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Sep., 2014"	"2014/09"	463	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Oct., 2014"	"2014/10"	512	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Nov., 2014"	"2014/11"	501	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Dec., 2014"	"2014/12"	536	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Jan., 2015"	"2015/01"	540	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Feb., 2015"	"2015/02"	604	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Mar., 2015"	"2015/03"	692	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Apr., 2015"	"2015/04"	609	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"May, 2015"	"2015/05"	598	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Jun., 2015"	"2015/06"	544	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Jul., 2015"	"2015/07"	627	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Aug., 2015"	"2015/08"	628	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Sep., 2015"	"2015/09"	617	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Oct., 2015"	"2015/10"	666	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Nov., 2015"	"2015/11"	626	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Dec., 2015"	"2015/12"	655	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Jan., 2016"	"2016/01"	689	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Feb., 2016"	"2016/02"	788	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Mar., 2016"	"2016/03"	907	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Apr., 2016"	"2016/04"	869	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"May, 2016"	"2016/05"	851	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Jun., 2016"	"2016/06"	834	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Jul., 2016"	"2016/07"	1051	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Aug., 2016"	"2016/08"	1011	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Sep., 2016"	"2016/09"	1014	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Oct., 2016"	"2016/10"	1040	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Nov., 2016"	"2016/11"	1049	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Dec., 2016"	"2016/12"	1098	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Jan., 2017"	"2017/01"	1191	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Feb., 2017"	"2017/02"	1121	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Mar., 2017"	"2017/03"	1253	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Apr., 2017"	"2017/04"	1293	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"May, 2017"	"2017/05"	1233	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Jun., 2017"	"2017/06"	1276	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Jul., 2017"	"2017/07"	1236	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Aug., 2017"	"2017/08"	1318	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Sep., 2017"	"2017/09"	1250	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Oct., 2017"	"2017/10"	1208	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Nov., 2017"	"2017/11"	1187	Not Applicable	Not Applicable
+	"Cocaine"	"T40.5"	"Dec., 2017"	"2017/12"	1313	Not Applicable	Not Applicable
+"Total"	"Cocaine"	"T40.5"			39478	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Jan., 2014"	"2014/01"	243	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Feb., 2014"	"2014/02"	245	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Mar., 2014"	"2014/03"	257	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Apr., 2014"	"2014/04"	203	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"May, 2014"	"2014/05"	194	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Jun., 2014"	"2014/06"	230	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Jul., 2014"	"2014/07"	245	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Aug., 2014"	"2014/08"	230	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Sep., 2014"	"2014/09"	199	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Oct., 2014"	"2014/10"	215	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Nov., 2014"	"2014/11"	207	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Dec., 2014"	"2014/12"	213	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Jan., 2015"	"2015/01"	263	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Feb., 2015"	"2015/02"	233	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Mar., 2015"	"2015/03"	280	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Apr., 2015"	"2015/04"	227	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"May, 2015"	"2015/05"	259	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Jun., 2015"	"2015/06"	228	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Jul., 2015"	"2015/07"	245	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Aug., 2015"	"2015/08"	229	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Sep., 2015"	"2015/09"	252	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Oct., 2015"	"2015/10"	260	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Nov., 2015"	"2015/11"	224	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Dec., 2015"	"2015/12"	220	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Jan., 2016"	"2016/01"	216	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Feb., 2016"	"2016/02"	249	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Mar., 2016"	"2016/03"	258	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Apr., 2016"	"2016/04"	223	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"May, 2016"	"2016/05"	229	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Jun., 2016"	"2016/06"	235	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Jul., 2016"	"2016/07"	280	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Aug., 2016"	"2016/08"	280	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Sep., 2016"	"2016/09"	231	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Oct., 2016"	"2016/10"	220	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Nov., 2016"	"2016/11"	207	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Dec., 2016"	"2016/12"	252	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Jan., 2017"	"2017/01"	256	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Feb., 2017"	"2017/02"	206	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Mar., 2017"	"2017/03"	239	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Apr., 2017"	"2017/04"	199	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"May, 2017"	"2017/05"	229	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Jun., 2017"	"2017/06"	187	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Jul., 2017"	"2017/07"	229	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Aug., 2017"	"2017/08"	218	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Sep., 2017"	"2017/09"	202	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Oct., 2017"	"2017/10"	179	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Nov., 2017"	"2017/11"	195	Not Applicable	Not Applicable
+	"Other and unspecified narcotics"	"T40.6"	"Dec., 2017"	"2017/12"	178	Not Applicable	Not Applicable
+"Total"	"Other and unspecified narcotics"	"T40.6"			10998	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Jan., 2014"	"2014/01"	39	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Feb., 2014"	"2014/02"	23	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Mar., 2014"	"2014/03"	30	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Apr., 2014"	"2014/04"	26	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"May, 2014"	"2014/05"	46	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Jun., 2014"	"2014/06"	43	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Jul., 2014"	"2014/07"	32	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Aug., 2014"	"2014/08"	31	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Sep., 2014"	"2014/09"	32	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Oct., 2014"	"2014/10"	30	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Nov., 2014"	"2014/11"	43	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Dec., 2014"	"2014/12"	46	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Jan., 2015"	"2015/01"	36	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Feb., 2015"	"2015/02"	43	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Mar., 2015"	"2015/03"	47	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Apr., 2015"	"2015/04"	46	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"May, 2015"	"2015/05"	53	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Jun., 2015"	"2015/06"	43	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Jul., 2015"	"2015/07"	44	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Aug., 2015"	"2015/08"	62	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Sep., 2015"	"2015/09"	44	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Oct., 2015"	"2015/10"	42	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Nov., 2015"	"2015/11"	52	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Dec., 2015"	"2015/12"	48	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Jan., 2016"	"2016/01"	56	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Feb., 2016"	"2016/02"	65	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Mar., 2016"	"2016/03"	69	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Apr., 2016"	"2016/04"	48	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"May, 2016"	"2016/05"	65	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Jun., 2016"	"2016/06"	74	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Jul., 2016"	"2016/07"	55	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Aug., 2016"	"2016/08"	57	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Sep., 2016"	"2016/09"	63	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Oct., 2016"	"2016/10"	44	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Nov., 2016"	"2016/11"	57	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Dec., 2016"	"2016/12"	64	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Jan., 2017"	"2017/01"	73	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Feb., 2017"	"2017/02"	60	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Mar., 2017"	"2017/03"	71	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Apr., 2017"	"2017/04"	80	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"May, 2017"	"2017/05"	81	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Jun., 2017"	"2017/06"	80	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Jul., 2017"	"2017/07"	80	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Aug., 2017"	"2017/08"	72	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Sep., 2017"	"2017/09"	63	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Oct., 2017"	"2017/10"	61	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Nov., 2017"	"2017/11"	76	Not Applicable	Not Applicable
+	"Cannabis (derivatives)"	"T40.7"	"Dec., 2017"	"2017/12"	65	Not Applicable	Not Applicable
+"Total"	"Cannabis (derivatives)"	"T40.7"			2560	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Jan., 2014"	"2014/01"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Feb., 2014"	"2014/02"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Mar., 2014"	"2014/03"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Apr., 2014"	"2014/04"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"May, 2014"	"2014/05"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Jun., 2014"	"2014/06"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Jul., 2014"	"2014/07"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Aug., 2014"	"2014/08"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Sep., 2014"	"2014/09"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Oct., 2014"	"2014/10"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Nov., 2014"	"2014/11"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Dec., 2014"	"2014/12"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Jan., 2015"	"2015/01"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Feb., 2015"	"2015/02"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Mar., 2015"	"2015/03"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Apr., 2015"	"2015/04"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"May, 2015"	"2015/05"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Jun., 2015"	"2015/06"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Jul., 2015"	"2015/07"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Aug., 2015"	"2015/08"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Sep., 2015"	"2015/09"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Oct., 2015"	"2015/10"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Nov., 2015"	"2015/11"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Dec., 2015"	"2015/12"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Jan., 2016"	"2016/01"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Feb., 2016"	"2016/02"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Mar., 2016"	"2016/03"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Apr., 2016"	"2016/04"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"May, 2016"	"2016/05"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Jun., 2016"	"2016/06"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Jul., 2016"	"2016/07"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Aug., 2016"	"2016/08"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Sep., 2016"	"2016/09"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Oct., 2016"	"2016/10"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Nov., 2016"	"2016/11"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Dec., 2016"	"2016/12"	0	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Jan., 2017"	"2017/01"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Feb., 2017"	"2017/02"	2	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Mar., 2017"	"2017/03"	2	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Apr., 2017"	"2017/04"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"May, 2017"	"2017/05"	4	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Jun., 2017"	"2017/06"	3	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Jul., 2017"	"2017/07"	3	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Aug., 2017"	"2017/08"	2	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Sep., 2017"	"2017/09"	3	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Oct., 2017"	"2017/10"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Nov., 2017"	"2017/11"	1	Not Applicable	Not Applicable
+	"Lysergide [LSD]"	"T40.8"	"Dec., 2017"	"2017/12"	0	Not Applicable	Not Applicable
+"Total"	"Lysergide [LSD]"	"T40.8"			38	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Jan., 2014"	"2014/01"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Feb., 2014"	"2014/02"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Mar., 2014"	"2014/03"	3	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Apr., 2014"	"2014/04"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"May, 2014"	"2014/05"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Jun., 2014"	"2014/06"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Jul., 2014"	"2014/07"	2	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Aug., 2014"	"2014/08"	3	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Sep., 2014"	"2014/09"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Oct., 2014"	"2014/10"	2	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Nov., 2014"	"2014/11"	2	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Dec., 2014"	"2014/12"	2	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Jan., 2015"	"2015/01"	4	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Feb., 2015"	"2015/02"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Mar., 2015"	"2015/03"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Apr., 2015"	"2015/04"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"May, 2015"	"2015/05"	2	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Jun., 2015"	"2015/06"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Jul., 2015"	"2015/07"	3	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Aug., 2015"	"2015/08"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Sep., 2015"	"2015/09"	2	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Oct., 2015"	"2015/10"	2	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Nov., 2015"	"2015/11"	2	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Dec., 2015"	"2015/12"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Jan., 2016"	"2016/01"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Feb., 2016"	"2016/02"	3	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Mar., 2016"	"2016/03"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Apr., 2016"	"2016/04"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"May, 2016"	"2016/05"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Jun., 2016"	"2016/06"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Jul., 2016"	"2016/07"	2	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Aug., 2016"	"2016/08"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Sep., 2016"	"2016/09"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Oct., 2016"	"2016/10"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Nov., 2016"	"2016/11"	2	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Dec., 2016"	"2016/12"	3	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Jan., 2017"	"2017/01"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Feb., 2017"	"2017/02"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Mar., 2017"	"2017/03"	2	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Apr., 2017"	"2017/04"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"May, 2017"	"2017/05"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Jun., 2017"	"2017/06"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Jul., 2017"	"2017/07"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Aug., 2017"	"2017/08"	0	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Sep., 2017"	"2017/09"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Oct., 2017"	"2017/10"	1	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Nov., 2017"	"2017/11"	2	Not Applicable	Not Applicable
+	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"	"Dec., 2017"	"2017/12"	1	Not Applicable	Not Applicable
+"Total"	"Other and unspecified psychodysleptics [hallucinogens]"	"T40.9"			57	Not Applicable	Not Applicable
+"Total"					267009	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: F11.0 (Mental and behavioural disorders due to use of opioids, acute intoxication); F11.1 (Mental and"
+"behavioural disorders due to use of opioids, harmful use); F11.2 (Mental and behavioural disorders due to use of opioids,"
+"dependence syndrome); F11.3 (Mental and behavioural disorders due to use of opioids, withdrawal state); F11.4 (Mental and"
+"behavioural disorders due to use of opioids, withdrawal state with delirium); F11.5 (Mental and behavioural disorders due to use"
+"of opioids, psychotic disorder); F11.6 (Mental and behavioural disorders due to use of opioids, amnesic syndrome); F11.7 (Mental"
+"and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder); F11.8 (Mental and behavioural"
+"disorders due to use of opioids, other mental and behavioural disorders); F11.9 (Mental and behavioural disorders due to use of"
+"opioids, unspecified mental and behavioural disorder); T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone);"
+"T40.4 (Other synthetic narcotics); T40.5 (Cocaine); T40.6 (Other and unspecified narcotics); T40.7 (Cannabis (derivatives));"
+"T40.8 (Lysergide [LSD]); T40.9 (Other and unspecified psychodysleptics [hallucinogens])"
+"Year/Month: 2014; 2015; 2016; 2017"
+"Group By: Multiple Cause of death; Month"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 11, 2019 5:03:56 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Oct 11, 2019 5:03:56 AM"
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

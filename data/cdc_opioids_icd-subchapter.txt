@@ -1,0 +1,143 @@
+"Notes"	"MCD - ICD Sub-Chapter"	"MCD - ICD Sub-Chapter Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Jan., 2014"	"2014/01"	354	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Feb., 2014"	"2014/02"	354	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Mar., 2014"	"2014/03"	384	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Apr., 2014"	"2014/04"	352	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"May, 2014"	"2014/05"	381	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Jun., 2014"	"2014/06"	410	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Jul., 2014"	"2014/07"	403	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Aug., 2014"	"2014/08"	414	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Sep., 2014"	"2014/09"	406	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Oct., 2014"	"2014/10"	410	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Nov., 2014"	"2014/11"	418	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Dec., 2014"	"2014/12"	459	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Jan., 2015"	"2015/01"	462	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Feb., 2015"	"2015/02"	465	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Mar., 2015"	"2015/03"	427	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Apr., 2015"	"2015/04"	485	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"May, 2015"	"2015/05"	427	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Jun., 2015"	"2015/06"	415	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Jul., 2015"	"2015/07"	446	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Aug., 2015"	"2015/08"	504	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Sep., 2015"	"2015/09"	423	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Oct., 2015"	"2015/10"	438	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Nov., 2015"	"2015/11"	446	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Dec., 2015"	"2015/12"	452	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Jan., 2016"	"2016/01"	508	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Feb., 2016"	"2016/02"	565	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Mar., 2016"	"2016/03"	659	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Apr., 2016"	"2016/04"	601	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"May, 2016"	"2016/05"	577	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Jun., 2016"	"2016/06"	548	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Jul., 2016"	"2016/07"	610	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Aug., 2016"	"2016/08"	562	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Sep., 2016"	"2016/09"	646	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Oct., 2016"	"2016/10"	634	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Nov., 2016"	"2016/11"	658	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Dec., 2016"	"2016/12"	696	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Jan., 2017"	"2017/01"	648	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Feb., 2017"	"2017/02"	609	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Mar., 2017"	"2017/03"	643	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Apr., 2017"	"2017/04"	592	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"May, 2017"	"2017/05"	551	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Jun., 2017"	"2017/06"	526	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Jul., 2017"	"2017/07"	581	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Aug., 2017"	"2017/08"	578	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Sep., 2017"	"2017/09"	529	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Oct., 2017"	"2017/10"	551	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Nov., 2017"	"2017/11"	592	Not Applicable	Not Applicable
+	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"	"Dec., 2017"	"2017/12"	630	Not Applicable	Not Applicable
+"Total"	"Mental and behavioural disorders due to psychoactive substance use"	"F10-F19"			24429	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Jan., 2014"	"2014/01"	2751	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Feb., 2014"	"2014/02"	2666	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Mar., 2014"	"2014/03"	2825	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Apr., 2014"	"2014/04"	2448	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"May, 2014"	"2014/05"	2648	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Jun., 2014"	"2014/06"	2582	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Jul., 2014"	"2014/07"	2699	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Aug., 2014"	"2014/08"	2705	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Sep., 2014"	"2014/09"	2598	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Oct., 2014"	"2014/10"	2803	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Nov., 2014"	"2014/11"	2784	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Dec., 2014"	"2014/12"	2860	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Jan., 2015"	"2015/01"	3070	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Feb., 2015"	"2015/02"	2924	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Mar., 2015"	"2015/03"	3256	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Apr., 2015"	"2015/04"	3112	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"May, 2015"	"2015/05"	3173	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Jun., 2015"	"2015/06"	2922	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Jul., 2015"	"2015/07"	3070	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Aug., 2015"	"2015/08"	3144	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Sep., 2015"	"2015/09"	3218	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Oct., 2015"	"2015/10"	3297	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Nov., 2015"	"2015/11"	3042	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Dec., 2015"	"2015/12"	3041	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Jan., 2016"	"2016/01"	3410	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Feb., 2016"	"2016/02"	3760	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Mar., 2016"	"2016/03"	4114	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Apr., 2016"	"2016/04"	3944	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"May, 2016"	"2016/05"	3840	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Jun., 2016"	"2016/06"	3760	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Jul., 2016"	"2016/07"	4129	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Aug., 2016"	"2016/08"	4022	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Sep., 2016"	"2016/09"	3919	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Oct., 2016"	"2016/10"	4109	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Nov., 2016"	"2016/11"	4165	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Dec., 2016"	"2016/12"	4461	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Jan., 2017"	"2017/01"	4770	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Feb., 2017"	"2017/02"	4414	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Mar., 2017"	"2017/03"	4721	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Apr., 2017"	"2017/04"	4528	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"May, 2017"	"2017/05"	4575	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Jun., 2017"	"2017/06"	4490	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Jul., 2017"	"2017/07"	4446	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Aug., 2017"	"2017/08"	4484	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Sep., 2017"	"2017/09"	4456	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Oct., 2017"	"2017/10"	4274	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Nov., 2017"	"2017/11"	4254	Not Applicable	Not Applicable
+	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"	"Dec., 2017"	"2017/12"	4484	Not Applicable	Not Applicable
+"Total"	"Poisoning by drugs, medicaments and biological substances"	"T36-T50"			171167	Not Applicable	Not Applicable
+"Total"					195596	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: F11.0 (Mental and behavioural disorders due to use of opioids, acute intoxication); F11.1 (Mental and"
+"behavioural disorders due to use of opioids, harmful use); F11.2 (Mental and behavioural disorders due to use of opioids,"
+"dependence syndrome); F11.3 (Mental and behavioural disorders due to use of opioids, withdrawal state); F11.4 (Mental and"
+"behavioural disorders due to use of opioids, withdrawal state with delirium); F11.5 (Mental and behavioural disorders due to use"
+"of opioids, psychotic disorder); F11.6 (Mental and behavioural disorders due to use of opioids, amnesic syndrome); F11.7 (Mental"
+"and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder); F11.8 (Mental and behavioural"
+"disorders due to use of opioids, other mental and behavioural disorders); F11.9 (Mental and behavioural disorders due to use of"
+"opioids, unspecified mental and behavioural disorder); T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone);"
+"T40.4 (Other synthetic narcotics); T40.5 (Cocaine); T40.6 (Other and unspecified narcotics); T40.7 (Cannabis (derivatives));"
+"T40.8 (Lysergide [LSD]); T40.9 (Other and unspecified psychodysleptics [hallucinogens])"
+"Year/Month: 2014; 2015; 2016; 2017"
+"Group By: MCD - ICD Sub-Chapter; Month"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 11, 2019 5:05:27 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Oct 11, 2019 5:05:27 AM"
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"3. These items in the results table are not fully selected: Mental and behavioural disorders due to psychoactive substance use,"
+"Poisoning by drugs, medicaments and biological substances. The Query Description lists the actual values selected."
+"4. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

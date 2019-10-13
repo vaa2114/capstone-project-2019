@@ -1,0 +1,529 @@
+"Notes"	"HHS Region"	"HHS Region Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Jan., 2014"	"2014/01"	247	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Feb., 2014"	"2014/02"	254	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Mar., 2014"	"2014/03"	227	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Apr., 2014"	"2014/04"	174	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"May, 2014"	"2014/05"	216	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Jun., 2014"	"2014/06"	221	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Jul., 2014"	"2014/07"	164	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Aug., 2014"	"2014/08"	220	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Sep., 2014"	"2014/09"	200	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Oct., 2014"	"2014/10"	254	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Nov., 2014"	"2014/11"	209	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Dec., 2014"	"2014/12"	243	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Jan., 2015"	"2015/01"	291	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Feb., 2015"	"2015/02"	275	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Mar., 2015"	"2015/03"	302	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Apr., 2015"	"2015/04"	273	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"May, 2015"	"2015/05"	266	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Jun., 2015"	"2015/06"	265	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Jul., 2015"	"2015/07"	288	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Aug., 2015"	"2015/08"	263	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Sep., 2015"	"2015/09"	336	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Oct., 2015"	"2015/10"	356	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Nov., 2015"	"2015/11"	299	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Dec., 2015"	"2015/12"	238	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Jan., 2016"	"2016/01"	320	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Feb., 2016"	"2016/02"	366	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Mar., 2016"	"2016/03"	365	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Apr., 2016"	"2016/04"	388	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"May, 2016"	"2016/05"	374	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Jun., 2016"	"2016/06"	356	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Jul., 2016"	"2016/07"	378	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Aug., 2016"	"2016/08"	342	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Sep., 2016"	"2016/09"	369	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Oct., 2016"	"2016/10"	353	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Nov., 2016"	"2016/11"	362	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Dec., 2016"	"2016/12"	345	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Jan., 2017"	"2017/01"	348	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Feb., 2017"	"2017/02"	335	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Mar., 2017"	"2017/03"	380	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Apr., 2017"	"2017/04"	370	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"May, 2017"	"2017/05"	339	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Jun., 2017"	"2017/06"	340	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Jul., 2017"	"2017/07"	388	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Aug., 2017"	"2017/08"	373	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Sep., 2017"	"2017/09"	383	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Oct., 2017"	"2017/10"	371	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Nov., 2017"	"2017/11"	357	Not Applicable	Not Applicable
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Dec., 2017"	"2017/12"	408	Not Applicable	Not Applicable
+"Total"	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"			14791	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Jan., 2014"	"2014/01"	293	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Feb., 2014"	"2014/02"	219	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Mar., 2014"	"2014/03"	282	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Apr., 2014"	"2014/04"	211	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"May, 2014"	"2014/05"	262	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Jun., 2014"	"2014/06"	227	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Jul., 2014"	"2014/07"	249	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Aug., 2014"	"2014/08"	219	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Sep., 2014"	"2014/09"	219	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Oct., 2014"	"2014/10"	271	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Nov., 2014"	"2014/11"	236	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Dec., 2014"	"2014/12"	263	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Jan., 2015"	"2015/01"	276	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Feb., 2015"	"2015/02"	263	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Mar., 2015"	"2015/03"	296	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Apr., 2015"	"2015/04"	324	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"May, 2015"	"2015/05"	311	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Jun., 2015"	"2015/06"	271	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Jul., 2015"	"2015/07"	318	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Aug., 2015"	"2015/08"	328	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Sep., 2015"	"2015/09"	308	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Oct., 2015"	"2015/10"	305	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Nov., 2015"	"2015/11"	282	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Dec., 2015"	"2015/12"	274	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Jan., 2016"	"2016/01"	364	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Feb., 2016"	"2016/02"	408	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Mar., 2016"	"2016/03"	476	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Apr., 2016"	"2016/04"	490	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"May, 2016"	"2016/05"	402	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Jun., 2016"	"2016/06"	374	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Jul., 2016"	"2016/07"	475	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Aug., 2016"	"2016/08"	400	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Sep., 2016"	"2016/09"	396	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Oct., 2016"	"2016/10"	448	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Nov., 2016"	"2016/11"	435	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Dec., 2016"	"2016/12"	486	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Jan., 2017"	"2017/01"	558	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Feb., 2017"	"2017/02"	451	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Mar., 2017"	"2017/03"	561	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Apr., 2017"	"2017/04"	519	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"May, 2017"	"2017/05"	558	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Jun., 2017"	"2017/06"	529	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Jul., 2017"	"2017/07"	494	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Aug., 2017"	"2017/08"	482	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Sep., 2017"	"2017/09"	521	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Oct., 2017"	"2017/10"	416	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Nov., 2017"	"2017/11"	416	Not Applicable	Not Applicable
+	"HHS Region #2  NJ, NY"	"HHS2"	"Dec., 2017"	"2017/12"	481	Not Applicable	Not Applicable
+"Total"	"HHS Region #2  NJ, NY"	"HHS2"			17647	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Jan., 2014"	"2014/01"	348	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Feb., 2014"	"2014/02"	287	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Mar., 2014"	"2014/03"	346	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Apr., 2014"	"2014/04"	320	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"May, 2014"	"2014/05"	322	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Jun., 2014"	"2014/06"	325	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Jul., 2014"	"2014/07"	350	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Aug., 2014"	"2014/08"	324	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Sep., 2014"	"2014/09"	306	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Oct., 2014"	"2014/10"	354	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Nov., 2014"	"2014/11"	313	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Dec., 2014"	"2014/12"	349	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Jan., 2015"	"2015/01"	397	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Feb., 2015"	"2015/02"	359	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Mar., 2015"	"2015/03"	371	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Apr., 2015"	"2015/04"	379	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"May, 2015"	"2015/05"	375	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Jun., 2015"	"2015/06"	377	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Jul., 2015"	"2015/07"	373	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Aug., 2015"	"2015/08"	382	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Sep., 2015"	"2015/09"	396	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Oct., 2015"	"2015/10"	442	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Nov., 2015"	"2015/11"	354	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Dec., 2015"	"2015/12"	414	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Jan., 2016"	"2016/01"	390	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Feb., 2016"	"2016/02"	532	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Mar., 2016"	"2016/03"	553	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Apr., 2016"	"2016/04"	542	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"May, 2016"	"2016/05"	569	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Jun., 2016"	"2016/06"	562	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Jul., 2016"	"2016/07"	600	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Aug., 2016"	"2016/08"	620	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Sep., 2016"	"2016/09"	614	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Oct., 2016"	"2016/10"	616	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Nov., 2016"	"2016/11"	687	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Dec., 2016"	"2016/12"	744	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Jan., 2017"	"2017/01"	739	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Feb., 2017"	"2017/02"	703	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Mar., 2017"	"2017/03"	714	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Apr., 2017"	"2017/04"	710	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"May, 2017"	"2017/05"	675	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Jun., 2017"	"2017/06"	655	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Jul., 2017"	"2017/07"	651	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Aug., 2017"	"2017/08"	676	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Sep., 2017"	"2017/09"	586	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Oct., 2017"	"2017/10"	559	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Nov., 2017"	"2017/11"	604	Not Applicable	Not Applicable
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Dec., 2017"	"2017/12"	650	Not Applicable	Not Applicable
+"Total"	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"			23514	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Jan., 2014"	"2014/01"	544	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Feb., 2014"	"2014/02"	558	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Mar., 2014"	"2014/03"	527	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Apr., 2014"	"2014/04"	508	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"May, 2014"	"2014/05"	488	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Jun., 2014"	"2014/06"	502	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Jul., 2014"	"2014/07"	551	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Aug., 2014"	"2014/08"	620	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Sep., 2014"	"2014/09"	529	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Oct., 2014"	"2014/10"	554	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Nov., 2014"	"2014/11"	598	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Dec., 2014"	"2014/12"	628	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Jan., 2015"	"2015/01"	677	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Feb., 2015"	"2015/02"	673	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Mar., 2015"	"2015/03"	715	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Apr., 2015"	"2015/04"	626	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"May, 2015"	"2015/05"	672	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Jun., 2015"	"2015/06"	597	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Jul., 2015"	"2015/07"	711	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Aug., 2015"	"2015/08"	698	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Sep., 2015"	"2015/09"	652	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Oct., 2015"	"2015/10"	676	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Nov., 2015"	"2015/11"	638	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Dec., 2015"	"2015/12"	678	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Jan., 2016"	"2016/01"	727	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Feb., 2016"	"2016/02"	734	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Mar., 2016"	"2016/03"	898	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Apr., 2016"	"2016/04"	784	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"May, 2016"	"2016/05"	797	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Jun., 2016"	"2016/06"	852	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Jul., 2016"	"2016/07"	886	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Aug., 2016"	"2016/08"	918	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Sep., 2016"	"2016/09"	856	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Oct., 2016"	"2016/10"	975	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Nov., 2016"	"2016/11"	916	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Dec., 2016"	"2016/12"	993	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Jan., 2017"	"2017/01"	1021	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Feb., 2017"	"2017/02"	961	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Mar., 2017"	"2017/03"	1071	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Apr., 2017"	"2017/04"	996	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"May, 2017"	"2017/05"	1001	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Jun., 2017"	"2017/06"	1002	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Jul., 2017"	"2017/07"	920	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Aug., 2017"	"2017/08"	1028	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Sep., 2017"	"2017/09"	963	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Oct., 2017"	"2017/10"	972	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Nov., 2017"	"2017/11"	929	Not Applicable	Not Applicable
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Dec., 2017"	"2017/12"	1078	Not Applicable	Not Applicable
+"Total"	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"			36898	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Jan., 2014"	"2014/01"	515	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Feb., 2014"	"2014/02"	533	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Mar., 2014"	"2014/03"	599	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Apr., 2014"	"2014/04"	479	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"May, 2014"	"2014/05"	513	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Jun., 2014"	"2014/06"	535	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Jul., 2014"	"2014/07"	582	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Aug., 2014"	"2014/08"	563	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Sep., 2014"	"2014/09"	569	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Oct., 2014"	"2014/10"	639	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Nov., 2014"	"2014/11"	592	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Dec., 2014"	"2014/12"	569	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Jan., 2015"	"2015/01"	603	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Feb., 2015"	"2015/02"	586	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Mar., 2015"	"2015/03"	702	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Apr., 2015"	"2015/04"	720	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"May, 2015"	"2015/05"	677	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Jun., 2015"	"2015/06"	587	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Jul., 2015"	"2015/07"	620	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Aug., 2015"	"2015/08"	636	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Sep., 2015"	"2015/09"	701	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Oct., 2015"	"2015/10"	700	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Nov., 2015"	"2015/11"	700	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Dec., 2015"	"2015/12"	666	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Jan., 2016"	"2016/01"	763	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Feb., 2016"	"2016/02"	849	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Mar., 2016"	"2016/03"	932	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Apr., 2016"	"2016/04"	855	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"May, 2016"	"2016/05"	846	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Jun., 2016"	"2016/06"	783	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Jul., 2016"	"2016/07"	888	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Aug., 2016"	"2016/08"	894	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Sep., 2016"	"2016/09"	974	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Oct., 2016"	"2016/10"	940	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Nov., 2016"	"2016/11"	949	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Dec., 2016"	"2016/12"	1054	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Jan., 2017"	"2017/01"	1195	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Feb., 2017"	"2017/02"	1145	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Mar., 2017"	"2017/03"	1067	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Apr., 2017"	"2017/04"	1058	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"May, 2017"	"2017/05"	1068	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Jun., 2017"	"2017/06"	1018	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Jul., 2017"	"2017/07"	1041	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Aug., 2017"	"2017/08"	1004	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Sep., 2017"	"2017/09"	1113	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Oct., 2017"	"2017/10"	1011	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Nov., 2017"	"2017/11"	1019	Not Applicable	Not Applicable
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Dec., 2017"	"2017/12"	948	Not Applicable	Not Applicable
+"Total"	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"			38000	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Jan., 2014"	"2014/01"	285	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Feb., 2014"	"2014/02"	295	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Mar., 2014"	"2014/03"	282	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Apr., 2014"	"2014/04"	245	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"May, 2014"	"2014/05"	259	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Jun., 2014"	"2014/06"	297	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Jul., 2014"	"2014/07"	236	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Aug., 2014"	"2014/08"	287	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Sep., 2014"	"2014/09"	266	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Oct., 2014"	"2014/10"	257	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Nov., 2014"	"2014/11"	274	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Dec., 2014"	"2014/12"	265	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Jan., 2015"	"2015/01"	305	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Feb., 2015"	"2015/02"	252	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Mar., 2015"	"2015/03"	335	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Apr., 2015"	"2015/04"	262	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"May, 2015"	"2015/05"	301	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Jun., 2015"	"2015/06"	291	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Jul., 2015"	"2015/07"	283	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Aug., 2015"	"2015/08"	294	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Sep., 2015"	"2015/09"	301	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Oct., 2015"	"2015/10"	300	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Nov., 2015"	"2015/11"	246	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Dec., 2015"	"2015/12"	262	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Jan., 2016"	"2016/01"	284	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Feb., 2016"	"2016/02"	312	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Mar., 2016"	"2016/03"	335	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Apr., 2016"	"2016/04"	298	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"May, 2016"	"2016/05"	308	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Jun., 2016"	"2016/06"	291	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Jul., 2016"	"2016/07"	326	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Aug., 2016"	"2016/08"	325	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Sep., 2016"	"2016/09"	291	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Oct., 2016"	"2016/10"	291	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Nov., 2016"	"2016/11"	297	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Dec., 2016"	"2016/12"	312	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Jan., 2017"	"2017/01"	342	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Feb., 2017"	"2017/02"	328	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Mar., 2017"	"2017/03"	338	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Apr., 2017"	"2017/04"	341	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"May, 2017"	"2017/05"	341	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Jun., 2017"	"2017/06"	337	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Jul., 2017"	"2017/07"	368	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Aug., 2017"	"2017/08"	307	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Sep., 2017"	"2017/09"	299	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Oct., 2017"	"2017/10"	294	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Nov., 2017"	"2017/11"	342	Not Applicable	Not Applicable
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Dec., 2017"	"2017/12"	372	Not Applicable	Not Applicable
+"Total"	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"			14359	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Jan., 2014"	"2014/01"	110	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Feb., 2014"	"2014/02"	111	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Mar., 2014"	"2014/03"	104	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Apr., 2014"	"2014/04"	117	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"May, 2014"	"2014/05"	116	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Jun., 2014"	"2014/06"	86	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Jul., 2014"	"2014/07"	100	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Aug., 2014"	"2014/08"	113	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Sep., 2014"	"2014/09"	94	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Oct., 2014"	"2014/10"	100	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Nov., 2014"	"2014/11"	89	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Dec., 2014"	"2014/12"	113	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Jan., 2015"	"2015/01"	113	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Feb., 2015"	"2015/02"	113	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Mar., 2015"	"2015/03"	104	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Apr., 2015"	"2015/04"	106	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"May, 2015"	"2015/05"	127	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Jun., 2015"	"2015/06"	102	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Jul., 2015"	"2015/07"	97	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Aug., 2015"	"2015/08"	96	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Sep., 2015"	"2015/09"	104	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Oct., 2015"	"2015/10"	91	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Nov., 2015"	"2015/11"	105	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Dec., 2015"	"2015/12"	101	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Jan., 2016"	"2016/01"	121	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Feb., 2016"	"2016/02"	129	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Mar., 2016"	"2016/03"	108	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Apr., 2016"	"2016/04"	130	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"May, 2016"	"2016/05"	120	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Jun., 2016"	"2016/06"	108	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Jul., 2016"	"2016/07"	120	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Aug., 2016"	"2016/08"	124	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Sep., 2016"	"2016/09"	134	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Oct., 2016"	"2016/10"	127	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Nov., 2016"	"2016/11"	138	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Dec., 2016"	"2016/12"	156	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Jan., 2017"	"2017/01"	154	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Feb., 2017"	"2017/02"	126	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Mar., 2017"	"2017/03"	151	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Apr., 2017"	"2017/04"	117	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"May, 2017"	"2017/05"	133	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Jun., 2017"	"2017/06"	120	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Jul., 2017"	"2017/07"	128	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Aug., 2017"	"2017/08"	124	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Sep., 2017"	"2017/09"	139	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Oct., 2017"	"2017/10"	151	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Nov., 2017"	"2017/11"	129	Not Applicable	Not Applicable
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Dec., 2017"	"2017/12"	127	Not Applicable	Not Applicable
+"Total"	"HHS Region #7  IA, KS, MO, NE"	"HHS7"			5626	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Jan., 2014"	"2014/01"	106	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Feb., 2014"	"2014/02"	108	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Mar., 2014"	"2014/03"	109	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Apr., 2014"	"2014/04"	104	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"May, 2014"	"2014/05"	111	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Jun., 2014"	"2014/06"	100	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Jul., 2014"	"2014/07"	109	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Aug., 2014"	"2014/08"	99	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Sep., 2014"	"2014/09"	112	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Oct., 2014"	"2014/10"	91	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Nov., 2014"	"2014/11"	134	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Dec., 2014"	"2014/12"	123	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Jan., 2015"	"2015/01"	111	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Feb., 2015"	"2015/02"	100	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Mar., 2015"	"2015/03"	101	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Apr., 2015"	"2015/04"	109	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"May, 2015"	"2015/05"	90	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Jun., 2015"	"2015/06"	101	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Jul., 2015"	"2015/07"	89	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Aug., 2015"	"2015/08"	97	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Sep., 2015"	"2015/09"	103	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Oct., 2015"	"2015/10"	106	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Nov., 2015"	"2015/11"	114	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Dec., 2015"	"2015/12"	130	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Jan., 2016"	"2016/01"	127	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Feb., 2016"	"2016/02"	120	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Mar., 2016"	"2016/03"	136	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Apr., 2016"	"2016/04"	117	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"May, 2016"	"2016/05"	120	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Jun., 2016"	"2016/06"	122	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Jul., 2016"	"2016/07"	121	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Aug., 2016"	"2016/08"	119	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Sep., 2016"	"2016/09"	103	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Oct., 2016"	"2016/10"	110	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Nov., 2016"	"2016/11"	130	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Dec., 2016"	"2016/12"	114	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Jan., 2017"	"2017/01"	145	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Feb., 2017"	"2017/02"	112	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Mar., 2017"	"2017/03"	105	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Apr., 2017"	"2017/04"	130	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"May, 2017"	"2017/05"	106	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Jun., 2017"	"2017/06"	136	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Jul., 2017"	"2017/07"	115	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Aug., 2017"	"2017/08"	126	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Sep., 2017"	"2017/09"	108	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Oct., 2017"	"2017/10"	122	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Nov., 2017"	"2017/11"	142	Not Applicable	Not Applicable
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Dec., 2017"	"2017/12"	107	Not Applicable	Not Applicable
+"Total"	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"			5450	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Jan., 2014"	"2014/01"	321	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Feb., 2014"	"2014/02"	301	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Mar., 2014"	"2014/03"	364	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Apr., 2014"	"2014/04"	304	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"May, 2014"	"2014/05"	324	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Jun., 2014"	"2014/06"	305	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Jul., 2014"	"2014/07"	356	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Aug., 2014"	"2014/08"	282	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Sep., 2014"	"2014/09"	329	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Oct., 2014"	"2014/10"	291	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Nov., 2014"	"2014/11"	326	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Dec., 2014"	"2014/12"	306	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Jan., 2015"	"2015/01"	325	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Feb., 2015"	"2015/02"	314	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Mar., 2015"	"2015/03"	341	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Apr., 2015"	"2015/04"	329	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"May, 2015"	"2015/05"	355	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Jun., 2015"	"2015/06"	327	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Jul., 2015"	"2015/07"	314	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Aug., 2015"	"2015/08"	370	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Sep., 2015"	"2015/09"	322	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Oct., 2015"	"2015/10"	324	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Nov., 2015"	"2015/11"	321	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Dec., 2015"	"2015/12"	300	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Jan., 2016"	"2016/01"	337	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Feb., 2016"	"2016/02"	339	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Mar., 2016"	"2016/03"	394	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Apr., 2016"	"2016/04"	368	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"May, 2016"	"2016/05"	342	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Jun., 2016"	"2016/06"	360	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Jul., 2016"	"2016/07"	390	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Aug., 2016"	"2016/08"	354	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Sep., 2016"	"2016/09"	295	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Oct., 2016"	"2016/10"	322	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Nov., 2016"	"2016/11"	333	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Dec., 2016"	"2016/12"	350	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Jan., 2017"	"2017/01"	374	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Feb., 2017"	"2017/02"	317	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Mar., 2017"	"2017/03"	401	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Apr., 2017"	"2017/04"	371	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"May, 2017"	"2017/05"	392	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Jun., 2017"	"2017/06"	395	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Jul., 2017"	"2017/07"	400	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Aug., 2017"	"2017/08"	401	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Sep., 2017"	"2017/09"	354	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Oct., 2017"	"2017/10"	396	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Nov., 2017"	"2017/11"	368	Not Applicable	Not Applicable
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Dec., 2017"	"2017/12"	365	Not Applicable	Not Applicable
+"Total"	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"			16469	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Jan., 2014"	"2014/01"	117	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Feb., 2014"	"2014/02"	109	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Mar., 2014"	"2014/03"	104	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Apr., 2014"	"2014/04"	104	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"May, 2014"	"2014/05"	142	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Jun., 2014"	"2014/06"	124	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Jul., 2014"	"2014/07"	116	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Aug., 2014"	"2014/08"	106	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Sep., 2014"	"2014/09"	92	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Oct., 2014"	"2014/10"	118	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Nov., 2014"	"2014/11"	123	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Dec., 2014"	"2014/12"	126	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Jan., 2015"	"2015/01"	126	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Feb., 2015"	"2015/02"	120	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Mar., 2015"	"2015/03"	125	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Apr., 2015"	"2015/04"	118	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"May, 2015"	"2015/05"	135	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Jun., 2015"	"2015/06"	129	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Jul., 2015"	"2015/07"	114	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Aug., 2015"	"2015/08"	131	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Sep., 2015"	"2015/09"	127	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Oct., 2015"	"2015/10"	126	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Nov., 2015"	"2015/11"	127	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Dec., 2015"	"2015/12"	115	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Jan., 2016"	"2016/01"	145	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Feb., 2016"	"2016/02"	136	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Mar., 2016"	"2016/03"	141	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Apr., 2016"	"2016/04"	152	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"May, 2016"	"2016/05"	154	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Jun., 2016"	"2016/06"	134	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Jul., 2016"	"2016/07"	146	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Aug., 2016"	"2016/08"	115	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Sep., 2016"	"2016/09"	110	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Oct., 2016"	"2016/10"	105	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Nov., 2016"	"2016/11"	111	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Dec., 2016"	"2016/12"	129	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Jan., 2017"	"2017/01"	141	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Feb., 2017"	"2017/02"	128	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Mar., 2017"	"2017/03"	141	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Apr., 2017"	"2017/04"	124	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"May, 2017"	"2017/05"	153	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Jun., 2017"	"2017/06"	123	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Jul., 2017"	"2017/07"	145	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Aug., 2017"	"2017/08"	152	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Sep., 2017"	"2017/09"	150	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Oct., 2017"	"2017/10"	138	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Nov., 2017"	"2017/11"	129	Not Applicable	Not Applicable
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Dec., 2017"	"2017/12"	143	Not Applicable	Not Applicable
+"Total"	"HHS Region #10  AK, ID, OR, WA"	"HHS10"			6119	Not Applicable	Not Applicable
+"Total"					178873	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: F11.0 (Mental and behavioural disorders due to use of opioids, acute intoxication); F11.1 (Mental and"
+"behavioural disorders due to use of opioids, harmful use); F11.2 (Mental and behavioural disorders due to use of opioids,"
+"dependence syndrome); F11.3 (Mental and behavioural disorders due to use of opioids, withdrawal state); F11.4 (Mental and"
+"behavioural disorders due to use of opioids, withdrawal state with delirium); F11.5 (Mental and behavioural disorders due to use"
+"of opioids, psychotic disorder); F11.6 (Mental and behavioural disorders due to use of opioids, amnesic syndrome); F11.7 (Mental"
+"and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder); F11.8 (Mental and behavioural"
+"disorders due to use of opioids, other mental and behavioural disorders); F11.9 (Mental and behavioural disorders due to use of"
+"opioids, unspecified mental and behavioural disorder); T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone);"
+"T40.4 (Other synthetic narcotics); T40.5 (Cocaine); T40.6 (Other and unspecified narcotics); T40.7 (Cannabis (derivatives));"
+"T40.8 (Lysergide [LSD]); T40.9 (Other and unspecified psychodysleptics [hallucinogens])"
+"Year/Month: 2014; 2015; 2016; 2017"
+"Group By: HHS Region; Month"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 11, 2019 5:01:43 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Oct 11, 2019 5:01:43 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"3. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
