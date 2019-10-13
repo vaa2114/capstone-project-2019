@@ -1,0 +1,476 @@
+"Notes"	"Census Division"	"Census Division Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Jan., 2014"	"2014/01"	247	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Feb., 2014"	"2014/02"	274	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Mar., 2014"	"2014/03"	242	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Apr., 2014"	"2014/04"	193	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"May, 2014"	"2014/05"	233	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Jun., 2014"	"2014/06"	223	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Jul., 2014"	"2014/07"	177	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Aug., 2014"	"2014/08"	239	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Sep., 2014"	"2014/09"	219	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Oct., 2014"	"2014/10"	265	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Nov., 2014"	"2014/11"	219	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Dec., 2014"	"2014/12"	261	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Jan., 2015"	"2015/01"	288	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Feb., 2015"	"2015/02"	285	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Mar., 2015"	"2015/03"	325	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Apr., 2015"	"2015/04"	295	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"May, 2015"	"2015/05"	278	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Jun., 2015"	"2015/06"	271	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Jul., 2015"	"2015/07"	309	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Aug., 2015"	"2015/08"	282	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Sep., 2015"	"2015/09"	352	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Oct., 2015"	"2015/10"	366	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Nov., 2015"	"2015/11"	322	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Dec., 2015"	"2015/12"	251	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Jan., 2016"	"2016/01"	332	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Feb., 2016"	"2016/02"	378	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Mar., 2016"	"2016/03"	377	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Apr., 2016"	"2016/04"	402	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"May, 2016"	"2016/05"	371	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Jun., 2016"	"2016/06"	382	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Jul., 2016"	"2016/07"	397	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Aug., 2016"	"2016/08"	347	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Sep., 2016"	"2016/09"	379	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Oct., 2016"	"2016/10"	369	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Nov., 2016"	"2016/11"	384	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Dec., 2016"	"2016/12"	365	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Jan., 2017"	"2017/01"	376	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Feb., 2017"	"2017/02"	343	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Mar., 2017"	"2017/03"	399	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Apr., 2017"	"2017/04"	384	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"May, 2017"	"2017/05"	352	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Jun., 2017"	"2017/06"	350	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Jul., 2017"	"2017/07"	401	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Aug., 2017"	"2017/08"	390	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Sep., 2017"	"2017/09"	409	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Oct., 2017"	"2017/10"	390	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Nov., 2017"	"2017/11"	362	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Dec., 2017"	"2017/12"	429	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Jan., 2014"	"2014/01"	589	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Feb., 2014"	"2014/02"	478	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Mar., 2014"	"2014/03"	579	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Apr., 2014"	"2014/04"	520	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"May, 2014"	"2014/05"	580	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Jun., 2014"	"2014/06"	471	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Jul., 2014"	"2014/07"	499	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Aug., 2014"	"2014/08"	495	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Sep., 2014"	"2014/09"	474	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Oct., 2014"	"2014/10"	554	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Nov., 2014"	"2014/11"	504	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Dec., 2014"	"2014/12"	542	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Jan., 2015"	"2015/01"	575	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Feb., 2015"	"2015/02"	534	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Mar., 2015"	"2015/03"	615	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Apr., 2015"	"2015/04"	645	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"May, 2015"	"2015/05"	663	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Jun., 2015"	"2015/06"	636	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Jul., 2015"	"2015/07"	631	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Aug., 2015"	"2015/08"	669	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Sep., 2015"	"2015/09"	633	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Oct., 2015"	"2015/10"	663	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Nov., 2015"	"2015/11"	602	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Dec., 2015"	"2015/12"	606	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Jan., 2016"	"2016/01"	674	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Feb., 2016"	"2016/02"	820	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Mar., 2016"	"2016/03"	881	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Apr., 2016"	"2016/04"	894	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"May, 2016"	"2016/05"	749	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Jun., 2016"	"2016/06"	754	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Jul., 2016"	"2016/07"	912	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Aug., 2016"	"2016/08"	822	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Sep., 2016"	"2016/09"	844	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Oct., 2016"	"2016/10"	952	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Nov., 2016"	"2016/11"	955	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Dec., 2016"	"2016/12"	1064	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Jan., 2017"	"2017/01"	1108	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Feb., 2017"	"2017/02"	954	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Mar., 2017"	"2017/03"	1132	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Apr., 2017"	"2017/04"	1025	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"May, 2017"	"2017/05"	1095	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Jun., 2017"	"2017/06"	1014	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Jul., 2017"	"2017/07"	1002	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Aug., 2017"	"2017/08"	1034	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Sep., 2017"	"2017/09"	990	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Oct., 2017"	"2017/10"	827	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Nov., 2017"	"2017/11"	862	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Dec., 2017"	"2017/12"	951	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Jan., 2014"	"2014/01"	648	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Feb., 2014"	"2014/02"	673	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Mar., 2014"	"2014/03"	723	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Apr., 2014"	"2014/04"	592	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"May, 2014"	"2014/05"	611	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Jun., 2014"	"2014/06"	685	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Jul., 2014"	"2014/07"	711	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Aug., 2014"	"2014/08"	701	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Sep., 2014"	"2014/09"	700	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Oct., 2014"	"2014/10"	767	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Nov., 2014"	"2014/11"	709	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Dec., 2014"	"2014/12"	716	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Jan., 2015"	"2015/01"	746	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Feb., 2015"	"2015/02"	707	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Mar., 2015"	"2015/03"	835	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Apr., 2015"	"2015/04"	831	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"May, 2015"	"2015/05"	783	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Jun., 2015"	"2015/06"	707	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Jul., 2015"	"2015/07"	734	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Aug., 2015"	"2015/08"	757	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Sep., 2015"	"2015/09"	800	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Oct., 2015"	"2015/10"	810	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Nov., 2015"	"2015/11"	783	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Dec., 2015"	"2015/12"	755	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Jan., 2016"	"2016/01"	821	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Feb., 2016"	"2016/02"	905	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Mar., 2016"	"2016/03"	1015	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Apr., 2016"	"2016/04"	924	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"May, 2016"	"2016/05"	914	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Jun., 2016"	"2016/06"	876	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Jul., 2016"	"2016/07"	1003	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Aug., 2016"	"2016/08"	986	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Sep., 2016"	"2016/09"	1043	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Oct., 2016"	"2016/10"	1032	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Nov., 2016"	"2016/11"	1025	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Dec., 2016"	"2016/12"	1143	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Jan., 2017"	"2017/01"	1274	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Feb., 2017"	"2017/02"	1220	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Mar., 2017"	"2017/03"	1154	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Apr., 2017"	"2017/04"	1143	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"May, 2017"	"2017/05"	1120	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Jun., 2017"	"2017/06"	1102	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Jul., 2017"	"2017/07"	1122	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Aug., 2017"	"2017/08"	1082	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Sep., 2017"	"2017/09"	1183	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Oct., 2017"	"2017/10"	1102	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Nov., 2017"	"2017/11"	1098	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Dec., 2017"	"2017/12"	1012	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Jan., 2014"	"2014/01"	214	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Feb., 2014"	"2014/02"	202	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Mar., 2014"	"2014/03"	218	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Apr., 2014"	"2014/04"	217	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"May, 2014"	"2014/05"	199	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Jun., 2014"	"2014/06"	179	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Jul., 2014"	"2014/07"	199	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Aug., 2014"	"2014/08"	211	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Sep., 2014"	"2014/09"	188	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Oct., 2014"	"2014/10"	197	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Nov., 2014"	"2014/11"	178	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Dec., 2014"	"2014/12"	209	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Jan., 2015"	"2015/01"	231	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Feb., 2015"	"2015/02"	199	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Mar., 2015"	"2015/03"	228	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Apr., 2015"	"2015/04"	207	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"May, 2015"	"2015/05"	250	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Jun., 2015"	"2015/06"	212	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Jul., 2015"	"2015/07"	214	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Aug., 2015"	"2015/08"	198	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Sep., 2015"	"2015/09"	217	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Oct., 2015"	"2015/10"	197	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Nov., 2015"	"2015/11"	185	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Dec., 2015"	"2015/12"	199	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Jan., 2016"	"2016/01"	244	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Feb., 2016"	"2016/02"	254	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Mar., 2016"	"2016/03"	235	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Apr., 2016"	"2016/04"	246	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"May, 2016"	"2016/05"	236	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Jun., 2016"	"2016/06"	242	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Jul., 2016"	"2016/07"	229	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Aug., 2016"	"2016/08"	260	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Sep., 2016"	"2016/09"	236	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Oct., 2016"	"2016/10"	232	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Nov., 2016"	"2016/11"	260	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Dec., 2016"	"2016/12"	262	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Jan., 2017"	"2017/01"	277	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Feb., 2017"	"2017/02"	250	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Mar., 2017"	"2017/03"	259	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Apr., 2017"	"2017/04"	220	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"May, 2017"	"2017/05"	256	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Jun., 2017"	"2017/06"	244	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Jul., 2017"	"2017/07"	237	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Aug., 2017"	"2017/08"	263	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Sep., 2017"	"2017/09"	282	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Oct., 2017"	"2017/10"	270	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Nov., 2017"	"2017/11"	248	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Dec., 2017"	"2017/12"	261	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Jan., 2014"	"2014/01"	736	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Feb., 2014"	"2014/02"	703	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Mar., 2014"	"2014/03"	745	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Apr., 2014"	"2014/04"	690	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"May, 2014"	"2014/05"	706	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Jun., 2014"	"2014/06"	706	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Jul., 2014"	"2014/07"	773	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Aug., 2014"	"2014/08"	767	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Sep., 2014"	"2014/09"	730	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Oct., 2014"	"2014/10"	745	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Nov., 2014"	"2014/11"	763	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Dec., 2014"	"2014/12"	797	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Jan., 2015"	"2015/01"	892	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Feb., 2015"	"2015/02"	867	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Mar., 2015"	"2015/03"	830	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Apr., 2015"	"2015/04"	723	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"May, 2015"	"2015/05"	858	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Jun., 2015"	"2015/06"	773	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Jul., 2015"	"2015/07"	924	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Aug., 2015"	"2015/08"	889	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Sep., 2015"	"2015/09"	857	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Oct., 2015"	"2015/10"	927	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Nov., 2015"	"2015/11"	803	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Dec., 2015"	"2015/12"	887	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Jan., 2016"	"2016/01"	861	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Feb., 2016"	"2016/02"	1031	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Mar., 2016"	"2016/03"	1228	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Apr., 2016"	"2016/04"	1056	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"May, 2016"	"2016/05"	1120	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Jun., 2016"	"2016/06"	1118	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Jul., 2016"	"2016/07"	1207	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Aug., 2016"	"2016/08"	1196	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Sep., 2016"	"2016/09"	1174	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Oct., 2016"	"2016/10"	1297	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Nov., 2016"	"2016/11"	1262	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Dec., 2016"	"2016/12"	1291	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Jan., 2017"	"2017/01"	1358	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Feb., 2017"	"2017/02"	1215	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Mar., 2017"	"2017/03"	1351	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Apr., 2017"	"2017/04"	1322	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"May, 2017"	"2017/05"	1331	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Jun., 2017"	"2017/06"	1368	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Jul., 2017"	"2017/07"	1209	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Aug., 2017"	"2017/08"	1298	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Sep., 2017"	"2017/09"	1195	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Oct., 2017"	"2017/10"	1240	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Nov., 2017"	"2017/11"	1192	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Dec., 2017"	"2017/12"	1344	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Jan., 2014"	"2014/01"	307	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Feb., 2014"	"2014/02"	296	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Mar., 2014"	"2014/03"	290	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Apr., 2014"	"2014/04"	279	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"May, 2014"	"2014/05"	258	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Jun., 2014"	"2014/06"	269	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Jul., 2014"	"2014/07"	269	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Aug., 2014"	"2014/08"	321	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Sep., 2014"	"2014/09"	241	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Oct., 2014"	"2014/10"	296	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Nov., 2014"	"2014/11"	288	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Dec., 2014"	"2014/12"	291	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Jan., 2015"	"2015/01"	312	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Feb., 2015"	"2015/02"	309	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Mar., 2015"	"2015/03"	379	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Apr., 2015"	"2015/04"	314	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"May, 2015"	"2015/05"	328	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Jun., 2015"	"2015/06"	307	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Jul., 2015"	"2015/07"	326	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Aug., 2015"	"2015/08"	322	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Sep., 2015"	"2015/09"	289	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Oct., 2015"	"2015/10"	297	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Nov., 2015"	"2015/11"	299	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Dec., 2015"	"2015/12"	335	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Jan., 2016"	"2016/01"	354	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Feb., 2016"	"2016/02"	303	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Mar., 2016"	"2016/03"	352	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Apr., 2016"	"2016/04"	339	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"May, 2016"	"2016/05"	351	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Jun., 2016"	"2016/06"	357	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Jul., 2016"	"2016/07"	348	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Aug., 2016"	"2016/08"	370	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Sep., 2016"	"2016/09"	323	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Oct., 2016"	"2016/10"	323	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Nov., 2016"	"2016/11"	330	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Dec., 2016"	"2016/12"	407	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Jan., 2017"	"2017/01"	415	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Feb., 2017"	"2017/02"	375	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Mar., 2017"	"2017/03"	445	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Apr., 2017"	"2017/04"	404	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"May, 2017"	"2017/05"	369	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Jun., 2017"	"2017/06"	353	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Jul., 2017"	"2017/07"	358	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Aug., 2017"	"2017/08"	353	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Sep., 2017"	"2017/09"	358	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Oct., 2017"	"2017/10"	324	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Nov., 2017"	"2017/11"	361	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Dec., 2017"	"2017/12"	416	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Jan., 2014"	"2014/01"	389	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Feb., 2014"	"2014/02"	415	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Mar., 2014"	"2014/03"	402	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Apr., 2014"	"2014/04"	378	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"May, 2014"	"2014/05"	377	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Jun., 2014"	"2014/06"	384	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Jul., 2014"	"2014/07"	339	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Aug., 2014"	"2014/08"	370	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Sep., 2014"	"2014/09"	362	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Oct., 2014"	"2014/10"	368	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Nov., 2014"	"2014/11"	363	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Dec., 2014"	"2014/12"	364	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Jan., 2015"	"2015/01"	386	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Feb., 2015"	"2015/02"	337	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Mar., 2015"	"2015/03"	445	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Apr., 2015"	"2015/04"	362	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"May, 2015"	"2015/05"	394	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Jun., 2015"	"2015/06"	371	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Jul., 2015"	"2015/07"	409	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Aug., 2015"	"2015/08"	401	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Sep., 2015"	"2015/09"	391	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Oct., 2015"	"2015/10"	376	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Nov., 2015"	"2015/11"	340	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Dec., 2015"	"2015/12"	354	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Jan., 2016"	"2016/01"	396	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Feb., 2016"	"2016/02"	421	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Mar., 2016"	"2016/03"	417	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Apr., 2016"	"2016/04"	423	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"May, 2016"	"2016/05"	440	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Jun., 2016"	"2016/06"	414	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Jul., 2016"	"2016/07"	474	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Aug., 2016"	"2016/08"	447	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Sep., 2016"	"2016/09"	411	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Oct., 2016"	"2016/10"	396	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Nov., 2016"	"2016/11"	380	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Dec., 2016"	"2016/12"	422	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Jan., 2017"	"2017/01"	434	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Feb., 2017"	"2017/02"	425	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Mar., 2017"	"2017/03"	444	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Apr., 2017"	"2017/04"	436	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"May, 2017"	"2017/05"	453	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Jun., 2017"	"2017/06"	452	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Jul., 2017"	"2017/07"	498	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Aug., 2017"	"2017/08"	413	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Sep., 2017"	"2017/09"	431	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Oct., 2017"	"2017/10"	387	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Nov., 2017"	"2017/11"	469	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Dec., 2017"	"2017/12"	476	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Jan., 2014"	"2014/01"	359	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Feb., 2014"	"2014/02"	342	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Mar., 2014"	"2014/03"	351	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Apr., 2014"	"2014/04"	348	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"May, 2014"	"2014/05"	382	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Jun., 2014"	"2014/06"	335	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Jul., 2014"	"2014/07"	373	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Aug., 2014"	"2014/08"	355	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Sep., 2014"	"2014/09"	367	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Oct., 2014"	"2014/10"	324	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Nov., 2014"	"2014/11"	378	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Dec., 2014"	"2014/12"	337	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Jan., 2015"	"2015/01"	356	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Feb., 2015"	"2015/02"	326	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Mar., 2015"	"2015/03"	374	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Apr., 2015"	"2015/04"	370	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"May, 2015"	"2015/05"	359	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Jun., 2015"	"2015/06"	360	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Jul., 2015"	"2015/07"	354	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Aug., 2015"	"2015/08"	404	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Sep., 2015"	"2015/09"	365	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Oct., 2015"	"2015/10"	368	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Nov., 2015"	"2015/11"	365	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Dec., 2015"	"2015/12"	360	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Jan., 2016"	"2016/01"	376	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Feb., 2016"	"2016/02"	371	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Mar., 2016"	"2016/03"	425	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Apr., 2016"	"2016/04"	369	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"May, 2016"	"2016/05"	388	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Jun., 2016"	"2016/06"	418	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Jul., 2016"	"2016/07"	442	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Aug., 2016"	"2016/08"	419	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Sep., 2016"	"2016/09"	321	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Oct., 2016"	"2016/10"	380	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Nov., 2016"	"2016/11"	352	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Dec., 2016"	"2016/12"	324	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Jan., 2017"	"2017/01"	415	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Feb., 2017"	"2017/02"	347	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Mar., 2017"	"2017/03"	409	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Apr., 2017"	"2017/04"	387	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"May, 2017"	"2017/05"	421	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Jun., 2017"	"2017/06"	426	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Jul., 2017"	"2017/07"	464	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Aug., 2017"	"2017/08"	421	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Sep., 2017"	"2017/09"	351	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Oct., 2017"	"2017/10"	406	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Nov., 2017"	"2017/11"	378	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Dec., 2017"	"2017/12"	365	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Jan., 2014"	"2014/01"	537	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Feb., 2014"	"2014/02"	512	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Mar., 2014"	"2014/03"	556	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Apr., 2014"	"2014/04"	516	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"May, 2014"	"2014/05"	579	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Jun., 2014"	"2014/06"	531	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Jul., 2014"	"2014/07"	562	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Aug., 2014"	"2014/08"	528	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Sep., 2014"	"2014/09"	467	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Oct., 2014"	"2014/10"	505	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Nov., 2014"	"2014/11"	525	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Dec., 2014"	"2014/12"	485	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Jan., 2015"	"2015/01"	568	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Feb., 2015"	"2015/02"	523	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Mar., 2015"	"2015/03"	552	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Apr., 2015"	"2015/04"	534	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"May, 2015"	"2015/05"	549	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Jun., 2015"	"2015/06"	539	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Jul., 2015"	"2015/07"	596	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Aug., 2015"	"2015/08"	570	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Sep., 2015"	"2015/09"	577	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Oct., 2015"	"2015/10"	542	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Nov., 2015"	"2015/11"	500	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Dec., 2015"	"2015/12"	499	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Jan., 2016"	"2016/01"	573	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Feb., 2016"	"2016/02"	539	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Mar., 2016"	"2016/03"	581	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Apr., 2016"	"2016/04"	606	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"May, 2016"	"2016/05"	589	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Jun., 2016"	"2016/06"	567	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Jul., 2016"	"2016/07"	580	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Aug., 2016"	"2016/08"	550	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Sep., 2016"	"2016/09"	464	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Oct., 2016"	"2016/10"	465	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Nov., 2016"	"2016/11"	516	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Dec., 2016"	"2016/12"	551	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Jan., 2017"	"2017/01"	576	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Feb., 2017"	"2017/02"	490	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Mar., 2017"	"2017/03"	571	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Apr., 2017"	"2017/04"	565	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"May, 2017"	"2017/05"	639	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Jun., 2017"	"2017/06"	575	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Jul., 2017"	"2017/07"	647	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Aug., 2017"	"2017/08"	609	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Sep., 2017"	"2017/09"	587	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Oct., 2017"	"2017/10"	592	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Nov., 2017"	"2017/11"	521	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Dec., 2017"	"2017/12"	545	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2017"
+"Query Parameters:"
+"ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2014; 2015; 2016; 2017"
+"Group By: Census Division; Year; Month"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 4, 2019 4:52:19 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Oct 4, 2019 4:52:19 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

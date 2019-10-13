@@ -1,0 +1,907 @@
+"Notes"	"Census Division"	"Census Division Code"	"Year"	"Year Code"	"Month"	"Month Code"	"Gender"	"Gender Code"	Deaths	Population	Crude Rate
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Female"	"F"	76	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Male"	"M"	168	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Female"	"F"	85	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Male"	"M"	187	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Female"	"F"	82	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Male"	"M"	158	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Female"	"F"	60	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Male"	"M"	132	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"May, 2014"	"2014/05"	"Female"	"F"	75	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"May, 2014"	"2014/05"	"Male"	"M"	156	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Female"	"F"	66	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Male"	"M"	155	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Female"	"F"	46	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Male"	"M"	129	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Female"	"F"	62	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Male"	"M"	171	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Female"	"F"	78	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Male"	"M"	137	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Female"	"F"	80	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Male"	"M"	183	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Female"	"F"	71	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Male"	"M"	146	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Female"	"F"	84	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Male"	"M"	175	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Female"	"F"	75	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Male"	"M"	211	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Female"	"F"	73	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Male"	"M"	211	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Female"	"F"	101	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Male"	"M"	224	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Female"	"F"	86	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Male"	"M"	208	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"May, 2015"	"2015/05"	"Female"	"F"	74	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"May, 2015"	"2015/05"	"Male"	"M"	200	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Female"	"F"	86	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Male"	"M"	185	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Female"	"F"	88	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Male"	"M"	218	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Female"	"F"	78	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Male"	"M"	200	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Female"	"F"	107	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Male"	"M"	241	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Female"	"F"	98	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Male"	"M"	268	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Female"	"F"	97	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Male"	"M"	222	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Female"	"F"	70	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Male"	"M"	178	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Female"	"F"	89	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Male"	"M"	239	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Female"	"F"	106	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Male"	"M"	268	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Female"	"F"	112	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Male"	"M"	263	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Female"	"F"	103	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Male"	"M"	293	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"May, 2016"	"2016/05"	"Female"	"F"	108	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"May, 2016"	"2016/05"	"Male"	"M"	260	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Female"	"F"	113	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Male"	"M"	268	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Female"	"F"	120	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Male"	"M"	273	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Female"	"F"	102	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Male"	"M"	242	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Female"	"F"	98	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Male"	"M"	280	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Female"	"F"	109	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Male"	"M"	258	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Female"	"F"	109	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Male"	"M"	268	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Female"	"F"	111	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Male"	"M"	248	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Female"	"F"	111	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Male"	"M"	260	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Female"	"F"	102	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Male"	"M"	239	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Female"	"F"	109	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Male"	"M"	287	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Female"	"F"	115	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Male"	"M"	268	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"May, 2017"	"2017/05"	"Female"	"F"	94	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"May, 2017"	"2017/05"	"Male"	"M"	256	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Female"	"F"	85	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Male"	"M"	263	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Female"	"F"	104	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Male"	"M"	297	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Female"	"F"	103	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Male"	"M"	286	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Female"	"F"	102	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Male"	"M"	302	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Female"	"F"	108	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Male"	"M"	279	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Female"	"F"	104	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Male"	"M"	256	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Female"	"F"	122	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Male"	"M"	306	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Female"	"F"	190	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Male"	"M"	381	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Female"	"F"	165	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Male"	"M"	300	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Female"	"F"	187	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Male"	"M"	381	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Female"	"F"	180	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Male"	"M"	333	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"May, 2014"	"2014/05"	"Female"	"F"	201	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"May, 2014"	"2014/05"	"Male"	"M"	365	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Female"	"F"	145	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Male"	"M"	318	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Female"	"F"	167	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Male"	"M"	327	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Female"	"F"	166	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Male"	"M"	318	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Female"	"F"	147	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Male"	"M"	318	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Female"	"F"	206	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Male"	"M"	344	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Female"	"F"	175	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Male"	"M"	322	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Female"	"F"	177	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Male"	"M"	348	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Female"	"F"	173	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Male"	"M"	393	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Female"	"F"	177	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Male"	"M"	351	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Female"	"F"	198	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Male"	"M"	406	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Female"	"F"	197	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Male"	"M"	443	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"May, 2015"	"2015/05"	"Female"	"F"	200	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"May, 2015"	"2015/05"	"Male"	"M"	453	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Female"	"F"	192	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Male"	"M"	434	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Female"	"F"	199	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Male"	"M"	416	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Female"	"F"	216	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Male"	"M"	443	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Female"	"F"	170	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Male"	"M"	456	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Female"	"F"	211	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Male"	"M"	440	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Female"	"F"	175	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Male"	"M"	420	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Female"	"F"	192	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Male"	"M"	407	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Female"	"F"	210	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Male"	"M"	446	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Female"	"F"	267	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Male"	"M"	544	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Female"	"F"	284	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Male"	"M"	593	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Female"	"F"	272	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Male"	"M"	608	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"May, 2016"	"2016/05"	"Female"	"F"	215	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"May, 2016"	"2016/05"	"Male"	"M"	521	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Female"	"F"	217	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Male"	"M"	527	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Female"	"F"	266	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Male"	"M"	634	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Female"	"F"	230	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Male"	"M"	581	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Female"	"F"	254	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Male"	"M"	579	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Female"	"F"	261	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Male"	"M"	681	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Female"	"F"	273	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Male"	"M"	676	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Female"	"F"	327	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Male"	"M"	724	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Female"	"F"	326	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Male"	"M"	771	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Female"	"F"	269	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Male"	"M"	676	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Female"	"F"	306	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Male"	"M"	814	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Female"	"F"	289	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Male"	"M"	725	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"May, 2017"	"2017/05"	"Female"	"F"	280	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"May, 2017"	"2017/05"	"Male"	"M"	800	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Female"	"F"	278	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Male"	"M"	728	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Female"	"F"	299	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Male"	"M"	688	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Female"	"F"	293	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Male"	"M"	728	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Female"	"F"	265	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Male"	"M"	711	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Female"	"F"	229	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Male"	"M"	589	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Female"	"F"	263	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Male"	"M"	587	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Female"	"F"	288	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Male"	"M"	655	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Female"	"F"	247	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Male"	"M"	365	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Female"	"F"	259	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Male"	"M"	388	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Female"	"F"	284	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Male"	"M"	421	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Female"	"F"	212	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Male"	"M"	349	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"May, 2014"	"2014/05"	"Female"	"F"	215	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"May, 2014"	"2014/05"	"Male"	"M"	369	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Female"	"F"	242	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Male"	"M"	421	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Female"	"F"	242	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Male"	"M"	442	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Female"	"F"	233	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Male"	"M"	437	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Female"	"F"	238	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Male"	"M"	427	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Female"	"F"	256	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Male"	"M"	479	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Female"	"F"	268	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Male"	"M"	421	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Female"	"F"	245	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Male"	"M"	444	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Female"	"F"	269	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Male"	"M"	452	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Female"	"F"	245	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Male"	"M"	439	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Female"	"F"	307	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Male"	"M"	491	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Female"	"F"	306	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Male"	"M"	507	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"May, 2015"	"2015/05"	"Female"	"F"	276	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"May, 2015"	"2015/05"	"Male"	"M"	481	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Female"	"F"	238	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Male"	"M"	447	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Female"	"F"	251	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Male"	"M"	457	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Female"	"F"	252	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Male"	"M"	476	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Female"	"F"	287	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Male"	"M"	485	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Female"	"F"	265	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Male"	"M"	511	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Female"	"F"	257	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Male"	"M"	491	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Female"	"F"	264	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Male"	"M"	469	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Female"	"F"	249	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Male"	"M"	540	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Female"	"F"	291	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Male"	"M"	583	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Female"	"F"	333	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Male"	"M"	653	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Female"	"F"	319	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Male"	"M"	573	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"May, 2016"	"2016/05"	"Female"	"F"	283	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"May, 2016"	"2016/05"	"Male"	"M"	603	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Female"	"F"	303	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Male"	"M"	554	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Female"	"F"	334	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Male"	"M"	643	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Female"	"F"	326	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Male"	"M"	634	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Female"	"F"	324	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Male"	"M"	693	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Female"	"F"	347	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Male"	"M"	655	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Female"	"F"	337	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Male"	"M"	661	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Female"	"F"	358	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Male"	"M"	755	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Female"	"F"	424	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Male"	"M"	832	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Female"	"F"	402	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Male"	"M"	794	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Female"	"F"	377	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Male"	"M"	739	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Female"	"F"	370	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Male"	"M"	745	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"May, 2017"	"2017/05"	"Female"	"F"	367	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"May, 2017"	"2017/05"	"Male"	"M"	724	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Female"	"F"	395	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Male"	"M"	676	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Female"	"F"	352	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Male"	"M"	739	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Female"	"F"	365	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Male"	"M"	684	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Female"	"F"	375	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Male"	"M"	778	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Female"	"F"	339	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Male"	"M"	726	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Female"	"F"	348	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Male"	"M"	714	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Female"	"F"	329	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Male"	"M"	653	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Female"	"F"	90	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Male"	"M"	112	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Female"	"F"	87	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Male"	"M"	111	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Female"	"F"	106	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Male"	"M"	110	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Female"	"F"	77	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Male"	"M"	132	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"May, 2014"	"2014/05"	"Female"	"F"	83	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"May, 2014"	"2014/05"	"Male"	"M"	108	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Female"	"F"	67	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Male"	"M"	108	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Female"	"F"	81	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Male"	"M"	115	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Female"	"F"	80	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Male"	"M"	123	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Female"	"F"	63	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Male"	"M"	120	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Female"	"F"	82	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Male"	"M"	109	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Female"	"F"	78	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Male"	"M"	96	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Female"	"F"	90	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Male"	"M"	115	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Female"	"F"	100	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Male"	"M"	127	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Female"	"F"	90	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Male"	"M"	107	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Female"	"F"	99	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Male"	"M"	125	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Female"	"F"	84	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Male"	"M"	119	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"May, 2015"	"2015/05"	"Female"	"F"	103	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"May, 2015"	"2015/05"	"Male"	"M"	141	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Female"	"F"	86	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Male"	"M"	124	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Female"	"F"	81	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Male"	"M"	122	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Female"	"F"	74	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Male"	"M"	118	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Female"	"F"	84	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Male"	"M"	126	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Female"	"F"	80	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Male"	"M"	113	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Female"	"F"	74	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Male"	"M"	107	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Female"	"F"	72	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Male"	"M"	126	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Female"	"F"	91	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Male"	"M"	150	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Female"	"F"	89	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Male"	"M"	162	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Female"	"F"	67	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Male"	"M"	158	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Female"	"F"	92	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Male"	"M"	147	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"May, 2016"	"2016/05"	"Female"	"F"	88	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"May, 2016"	"2016/05"	"Male"	"M"	138	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Female"	"F"	100	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Male"	"M"	131	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Female"	"F"	80	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Male"	"M"	138	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Female"	"F"	100	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Male"	"M"	154	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Female"	"F"	84	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Male"	"M"	148	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Female"	"F"	88	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Male"	"M"	141	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Female"	"F"	80	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Male"	"M"	177	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Female"	"F"	95	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Male"	"M"	162	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Female"	"F"	102	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Male"	"M"	172	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Female"	"F"	93	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Male"	"M"	152	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Female"	"F"	91	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Male"	"M"	160	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Female"	"F"	89	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Male"	"M"	122	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"May, 2017"	"2017/05"	"Female"	"F"	92	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"May, 2017"	"2017/05"	"Male"	"M"	160	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Female"	"F"	89	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Male"	"M"	148	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Female"	"F"	79	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Male"	"M"	153	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Female"	"F"	96	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Male"	"M"	160	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Female"	"F"	108	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Male"	"M"	169	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Female"	"F"	107	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Male"	"M"	161	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Female"	"F"	87	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Male"	"M"	159	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Female"	"F"	106	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Male"	"M"	150	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Female"	"F"	287	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Male"	"M"	433	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Female"	"F"	289	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Male"	"M"	400	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Female"	"F"	296	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Male"	"M"	435	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Female"	"F"	279	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Male"	"M"	399	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"May, 2014"	"2014/05"	"Female"	"F"	275	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"May, 2014"	"2014/05"	"Male"	"M"	409	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Female"	"F"	265	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Male"	"M"	418	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Female"	"F"	293	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Male"	"M"	463	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Female"	"F"	287	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Male"	"M"	455	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Female"	"F"	290	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Male"	"M"	425	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Female"	"F"	296	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Male"	"M"	431	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Female"	"F"	278	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Male"	"M"	463	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Female"	"F"	293	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Male"	"M"	486	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Female"	"F"	327	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Male"	"M"	541	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Female"	"F"	312	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Male"	"M"	536	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Female"	"F"	314	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Male"	"M"	497	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Female"	"F"	263	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Male"	"M"	445	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"May, 2015"	"2015/05"	"Female"	"F"	290	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"May, 2015"	"2015/05"	"Male"	"M"	548	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Female"	"F"	284	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Male"	"M"	472	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Female"	"F"	342	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Male"	"M"	562	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Female"	"F"	338	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Male"	"M"	534	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Female"	"F"	314	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Male"	"M"	522	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Female"	"F"	356	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Male"	"M"	555	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Female"	"F"	284	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Male"	"M"	492	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Female"	"F"	327	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Male"	"M"	550	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Female"	"F"	340	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Male"	"M"	496	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Female"	"F"	336	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Male"	"M"	670	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Female"	"F"	466	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Male"	"M"	730	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Female"	"F"	382	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Male"	"M"	652	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"May, 2016"	"2016/05"	"Female"	"F"	369	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"May, 2016"	"2016/05"	"Male"	"M"	721	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Female"	"F"	371	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Male"	"M"	716	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Female"	"F"	401	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Male"	"M"	778	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Female"	"F"	373	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Male"	"M"	787	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Female"	"F"	398	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Male"	"M"	748	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Female"	"F"	405	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Male"	"M"	871	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Female"	"F"	410	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Male"	"M"	821	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Female"	"F"	403	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Male"	"M"	853	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Female"	"F"	438	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Male"	"M"	891	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Female"	"F"	399	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Male"	"M"	794	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Female"	"F"	460	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Male"	"M"	860	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Female"	"F"	450	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Male"	"M"	837	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"May, 2017"	"2017/05"	"Female"	"F"	423	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"May, 2017"	"2017/05"	"Male"	"M"	873	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Female"	"F"	443	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Male"	"M"	886	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Female"	"F"	400	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Male"	"M"	779	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Female"	"F"	435	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Male"	"M"	844	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Female"	"F"	383	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Male"	"M"	785	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Female"	"F"	420	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Male"	"M"	788	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Female"	"F"	400	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Male"	"M"	765	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Female"	"F"	442	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Male"	"M"	876	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Female"	"F"	146	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Male"	"M"	152	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Female"	"F"	111	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Male"	"M"	178	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Female"	"F"	122	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Male"	"M"	163	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Female"	"F"	115	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Male"	"M"	157	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"May, 2014"	"2014/05"	"Female"	"F"	116	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"May, 2014"	"2014/05"	"Male"	"M"	134	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Female"	"F"	118	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Male"	"M"	147	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Female"	"F"	104	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Male"	"M"	158	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Female"	"F"	121	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Male"	"M"	193	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Female"	"F"	97	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Male"	"M"	137	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Female"	"F"	125	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Male"	"M"	162	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Female"	"F"	118	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Male"	"M"	165	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Female"	"F"	110	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Male"	"M"	171	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Female"	"F"	125	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Male"	"M"	173	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Female"	"F"	119	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Male"	"M"	185	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Female"	"F"	168	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Male"	"M"	197	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Female"	"F"	119	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Male"	"M"	188	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"May, 2015"	"2015/05"	"Female"	"F"	129	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"May, 2015"	"2015/05"	"Male"	"M"	184	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Female"	"F"	112	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Male"	"M"	178	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Female"	"F"	136	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Male"	"M"	179	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Female"	"F"	126	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Male"	"M"	182	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Female"	"F"	107	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Male"	"M"	168	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Female"	"F"	119	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Male"	"M"	168	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Female"	"F"	118	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Male"	"M"	170	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Female"	"F"	122	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Male"	"M"	207	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Female"	"F"	149	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Male"	"M"	197	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Female"	"F"	135	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Male"	"M"	155	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Female"	"F"	130	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Male"	"M"	219	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Female"	"F"	123	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Male"	"M"	207	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"May, 2016"	"2016/05"	"Female"	"F"	123	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"May, 2016"	"2016/05"	"Male"	"M"	219	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Female"	"F"	142	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Male"	"M"	207	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Female"	"F"	133	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Male"	"M"	208	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Female"	"F"	132	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Male"	"M"	229	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Female"	"F"	130	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Male"	"M"	184	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Female"	"F"	138	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Male"	"M"	176	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Female"	"F"	129	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Male"	"M"	195	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Female"	"F"	145	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Male"	"M"	254	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Female"	"F"	159	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Male"	"M"	244	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Female"	"F"	146	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Male"	"M"	219	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Female"	"F"	171	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Male"	"M"	261	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Female"	"F"	155	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Male"	"M"	244	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"May, 2017"	"2017/05"	"Female"	"F"	150	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"May, 2017"	"2017/05"	"Male"	"M"	209	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Female"	"F"	127	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Male"	"M"	217	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Female"	"F"	150	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Male"	"M"	201	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Female"	"F"	130	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Male"	"M"	213	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Female"	"F"	127	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Male"	"M"	226	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Female"	"F"	127	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Male"	"M"	191	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Female"	"F"	127	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Male"	"M"	225	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Female"	"F"	168	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Male"	"M"	240	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Female"	"F"	161	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Male"	"M"	214	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Female"	"F"	162	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Male"	"M"	241	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Female"	"F"	163	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Male"	"M"	225	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Female"	"F"	155	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Male"	"M"	209	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"May, 2014"	"2014/05"	"Female"	"F"	143	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"May, 2014"	"2014/05"	"Male"	"M"	216	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Female"	"F"	161	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Male"	"M"	212	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Female"	"F"	126	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Male"	"M"	197	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Female"	"F"	137	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Male"	"M"	212	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Female"	"F"	147	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Male"	"M"	205	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Female"	"F"	150	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Male"	"M"	205	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Female"	"F"	140	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Male"	"M"	202	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Female"	"F"	130	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Male"	"M"	220	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Female"	"F"	146	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Male"	"M"	227	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Female"	"F"	139	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Male"	"M"	189	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Female"	"F"	180	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Male"	"M"	248	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Female"	"F"	150	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Male"	"M"	198	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"May, 2015"	"2015/05"	"Female"	"F"	158	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"May, 2015"	"2015/05"	"Male"	"M"	224	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Female"	"F"	135	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Male"	"M"	226	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Female"	"F"	157	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Male"	"M"	235	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Female"	"F"	158	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Male"	"M"	232	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Female"	"F"	159	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Male"	"M"	224	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Female"	"F"	137	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Male"	"M"	226	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Female"	"F"	132	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Male"	"M"	198	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Female"	"F"	139	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Male"	"M"	209	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Female"	"F"	154	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Male"	"M"	231	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Female"	"F"	151	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Male"	"M"	258	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Female"	"F"	160	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Male"	"M"	247	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Female"	"F"	157	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Male"	"M"	251	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"May, 2016"	"2016/05"	"Female"	"F"	183	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"May, 2016"	"2016/05"	"Male"	"M"	248	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Female"	"F"	153	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Male"	"M"	249	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Female"	"F"	178	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Male"	"M"	287	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Female"	"F"	168	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Male"	"M"	272	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Female"	"F"	149	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Male"	"M"	255	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Female"	"F"	135	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Male"	"M"	247	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Female"	"F"	143	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Male"	"M"	228	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Female"	"F"	161	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Male"	"M"	247	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Female"	"F"	145	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Male"	"M"	276	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Female"	"F"	162	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Male"	"M"	249	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Female"	"F"	170	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Male"	"M"	257	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Female"	"F"	157	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Male"	"M"	261	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"May, 2017"	"2017/05"	"Female"	"F"	171	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"May, 2017"	"2017/05"	"Male"	"M"	271	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Female"	"F"	150	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Male"	"M"	287	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Female"	"F"	184	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Male"	"M"	304	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Female"	"F"	138	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Male"	"M"	263	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Female"	"F"	156	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Male"	"M"	261	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Female"	"F"	134	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Male"	"M"	245	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Female"	"F"	169	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Male"	"M"	290	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Female"	"F"	163	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Male"	"M"	306	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Female"	"F"	148	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Male"	"M"	188	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Female"	"F"	148	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Male"	"M"	174	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Female"	"F"	159	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Male"	"M"	176	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Female"	"F"	114	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Male"	"M"	216	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"May, 2014"	"2014/05"	"Female"	"F"	164	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"May, 2014"	"2014/05"	"Male"	"M"	202	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Female"	"F"	134	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Male"	"M"	190	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Female"	"F"	139	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Male"	"M"	218	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Female"	"F"	127	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Male"	"M"	210	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Female"	"F"	142	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Male"	"M"	209	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Female"	"F"	131	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Male"	"M"	179	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Female"	"F"	133	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Male"	"M"	230	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Female"	"F"	137	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Male"	"M"	187	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Female"	"F"	151	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Male"	"M"	186	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Female"	"F"	134	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Male"	"M"	171	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Female"	"F"	132	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Male"	"M"	221	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Female"	"F"	163	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Male"	"M"	187	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"May, 2015"	"2015/05"	"Female"	"F"	137	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"May, 2015"	"2015/05"	"Male"	"M"	205	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Female"	"F"	129	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Male"	"M"	215	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Female"	"F"	133	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Male"	"M"	203	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Female"	"F"	151	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Male"	"M"	231	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Female"	"F"	134	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Male"	"M"	215	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Female"	"F"	138	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Male"	"M"	211	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Female"	"F"	155	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Male"	"M"	193	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Female"	"F"	151	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Male"	"M"	193	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Female"	"F"	144	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Male"	"M"	212	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Female"	"F"	136	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Male"	"M"	225	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Female"	"F"	185	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Male"	"M"	226	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Female"	"F"	135	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Male"	"M"	217	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"May, 2016"	"2016/05"	"Female"	"F"	134	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"May, 2016"	"2016/05"	"Male"	"M"	236	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Female"	"F"	136	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Male"	"M"	258	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Female"	"F"	155	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Male"	"M"	279	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Female"	"F"	161	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Male"	"M"	241	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Female"	"F"	116	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Male"	"M"	192	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Female"	"F"	148	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Male"	"M"	214	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Female"	"F"	119	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Male"	"M"	218	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Female"	"F"	119	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Male"	"M"	198	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Female"	"F"	147	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Male"	"M"	254	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Female"	"F"	125	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Male"	"M"	212	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Female"	"F"	159	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Male"	"M"	232	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Female"	"F"	135	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Male"	"M"	232	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"May, 2017"	"2017/05"	"Female"	"F"	150	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"May, 2017"	"2017/05"	"Male"	"M"	259	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Female"	"F"	152	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Male"	"M"	265	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Female"	"F"	165	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Male"	"M"	285	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Female"	"F"	155	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Male"	"M"	261	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Female"	"F"	126	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Male"	"M"	216	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Female"	"F"	150	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Male"	"M"	240	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Female"	"F"	133	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Male"	"M"	232	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Female"	"F"	146	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Male"	"M"	205	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Female"	"F"	200	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Male"	"M"	329	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Female"	"F"	201	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Male"	"M"	307	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Female"	"F"	216	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Male"	"M"	327	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Female"	"F"	189	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Male"	"M"	323	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"May, 2014"	"2014/05"	"Female"	"F"	220	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"May, 2014"	"2014/05"	"Male"	"M"	347	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Female"	"F"	178	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Male"	"M"	339	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Female"	"F"	188	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Male"	"M"	369	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Female"	"F"	198	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Male"	"M"	322	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Female"	"F"	178	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Male"	"M"	283	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Female"	"F"	203	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Male"	"M"	299	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Female"	"F"	202	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Male"	"M"	316	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Female"	"F"	175	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Male"	"M"	302	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Female"	"F"	204	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Male"	"M"	354	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Female"	"F"	188	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Male"	"M"	324	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Female"	"F"	201	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Male"	"M"	343	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Female"	"F"	194	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Male"	"M"	327	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"May, 2015"	"2015/05"	"Female"	"F"	222	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"May, 2015"	"2015/05"	"Male"	"M"	314	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Female"	"F"	189	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Male"	"M"	340	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Female"	"F"	216	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Male"	"M"	372	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Female"	"F"	210	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Male"	"M"	344	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Female"	"F"	200	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Male"	"M"	368	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Female"	"F"	199	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Male"	"M"	335	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Female"	"F"	186	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Male"	"M"	307	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Female"	"F"	172	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Male"	"M"	322	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Female"	"F"	200	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Male"	"M"	361	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Female"	"F"	200	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Male"	"M"	328	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Female"	"F"	189	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Male"	"M"	378	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Female"	"F"	217	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Male"	"M"	378	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"May, 2016"	"2016/05"	"Female"	"F"	216	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"May, 2016"	"2016/05"	"Male"	"M"	363	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Female"	"F"	212	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Male"	"M"	343	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Female"	"F"	178	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Male"	"M"	393	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Female"	"F"	173	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Male"	"M"	364	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Female"	"F"	157	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Male"	"M"	302	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Female"	"F"	174	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Male"	"M"	278	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Female"	"F"	174	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Male"	"M"	334	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Female"	"F"	201	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Male"	"M"	348	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Female"	"F"	204	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Jan., 2017"	"2017/01"	"Male"	"M"	366	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Female"	"F"	166	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Feb., 2017"	"2017/02"	"Male"	"M"	321	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Female"	"F"	228	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Mar., 2017"	"2017/03"	"Male"	"M"	339	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Female"	"F"	197	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Apr., 2017"	"2017/04"	"Male"	"M"	359	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"May, 2017"	"2017/05"	"Female"	"F"	207	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"May, 2017"	"2017/05"	"Male"	"M"	421	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Female"	"F"	179	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Jun., 2017"	"2017/06"	"Male"	"M"	387	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Female"	"F"	215	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Jul., 2017"	"2017/07"	"Male"	"M"	418	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Female"	"F"	190	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Aug., 2017"	"2017/08"	"Male"	"M"	414	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Female"	"F"	182	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Sep., 2017"	"2017/09"	"Male"	"M"	400	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Female"	"F"	201	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Oct., 2017"	"2017/10"	"Male"	"M"	388	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Female"	"F"	157	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Nov., 2017"	"2017/11"	"Male"	"M"	358	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Female"	"F"	182	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Dec., 2017"	"2017/12"	"Male"	"M"	360	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2017"
+"Query Parameters:"
+"ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent)"
+"Year/Month: 2014; 2015; 2016; 2017"
+"Group By: Census Division; Year; Month; Gender"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 6, 2019 2:45:27 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Oct 6, 2019 2:45:27 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

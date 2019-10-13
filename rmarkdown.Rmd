@@ -23,46 +23,47 @@ data <- read.csv("C:/Users/NAMSON/Desktop/N.N.L/capstone-project-2019/data/data_
 colnames(data)[colnames(data) == 'Primary.Impression.ICD.10'] <- 'code'
 colnames(data)[colnames(data) == 'Primary.Impression.ICD.Name'] <- 'imp'
 colnames(data)[colnames(data) == 'NHTSA.Regions'] <- 'region'
+colnames(data)[colnames(data) == 'US.Census.Divisions'] <- 'div'
 ```
 
-You can also embed plots, for example:
-
 ```{r pressure, echo=FALSE}
+# Note: Redo this analysis with re-downloaded Census Division data instead of NHTSA Region data
 data$dates <- as.Date(data$'Event.Date', '%Y/%m/%d')
 data$month <- as.yearmon(data$dates)
 data$yr <- year(data$dates)
 data$icd <- substr(data$code, 0, 3)
-dat <- data %>% count(region,icd,month)
-dat <- dat[!(dat$icd=="T14"),]
-DT <- data.table(dat)
 
-DT$icd <- NULL
-dtable <- DT[, lapply(.SD, sum), by=list(region, month)]
 
-cdc <- read.delim("C:/Users/NAMSON/Desktop/N.N.L/capstone-project-2019/data/cdc_opioids_region.txt")
-names(cdc)[names(cdc) == 'HHS.Region.Code'] <- 'region'
+ddat <- data %>% count(div,icd,month)
+ddat <- ddat[!(ddat$icd=="T14"),]
+DDT <- data.table(ddat)
+
+DDT$icd <- NULL
+ddtable <- DDT[, lapply(.SD, sum), by=list(div, month)]
+
+ddtable$div <- gsub("New England", "Division 1: New England", ddtable$div)
+ddtable$div <- gsub("Middle Atlantic", "Division 2: Middle Atlantic", ddtable$div)
+ddtable$div <- gsub("East North Central", "Division 3: East North Central", ddtable$div)
+ddtable$div <- gsub("West North Central", "Division 4: West North Central", ddtable$div)
+ddtable$div <- gsub("South Atlantic", "Division 5: South Atlantic", ddtable$div)
+ddtable$div <- gsub("East South Central", "Division 6: East South Central", ddtable$div)
+ddtable$div <- gsub("West South Central", "Division 7: West South Central", ddtable$div)
+ddtable$div <- gsub("Mountain", "Division 8: Mountain", ddtable$div)
+ddtable$div <- gsub("Pacific", "Division 9: Pacific", ddtable$div)
+
+cdc <- read.delim("C:/Users/NAMSON/Desktop/N.N.L/capstone-project-2019/data/cdc_opioids_division.txt")
+names(cdc)[names(cdc) == 'Census.Division'] <- 'div'
 cdc <- head(cdc,-37)
-
-dtable$region <- gsub("Region 1", "HHS1", dtable$region)
-dtable$region <- gsub("Region 2", "HHS2", dtable$region)
-dtable$region <- gsub("Region 3", "HHS3", dtable$region)
-dtable$region <- gsub("Region 4", "HHS4", dtable$region)
-dtable$region <- gsub("Region 5", "HHS5", dtable$region)
-dtable$region <- gsub("Region 6", "HHS6", dtable$region)
-dtable$region <- gsub("Region 7", "HHS7", dtable$region)
-dtable$region <- gsub("Region 8", "HHS8", dtable$region)
-dtable$region <- gsub("Region 9", "HHS9", dtable$region)
-dtable$region <- gsub("Region 10", "HHS10", dtable$region)
 
 cdc$month <- as.yearmon(cdc$Month.Code, "%Y/%m")
 cdc$month <- as.Date(as.yearmon(cdc$month, "%Y/%m"))
 cdc$month <- as.yearmon(cdc$month)
 
-new <- cdc %>% inner_join(dtable, by=c("region","month"))
+new <- cdc %>% inner_join(ddtable, by=c("div","month"))
 names(new)[names(new) == 'n'] <- 'EMS Incidents'
 new$month <- as.Date(as.yearmon(new$month), frac = 1)
 
-news <- c("HHS.Region", "month", "Deaths", "EMS Incidents")
+news <- c("div", "month", "Deaths", "EMS Incidents")
 newd <- new[news]
 names(newd)[names(newd) == 'Deaths'] <- 'CDC Deaths'
 ```
@@ -71,19 +72,20 @@ names(newd)[names(newd) == 'Deaths'] <- 'CDC Deaths'
 cor(newd$`CDC Deaths`,newd$`EMS Incidents`)
 ```
 
+The correlation between opioid-related EMS incidents and opioid-related CDC Deaths (when using F11 & T40 codes only) is 0.69 for the year of 2017.
 
 ```{r visualization, echo = FALSE}
-nw <- melt(newd, id.vars=c('HHS.Region', 'month'),var='Type')
+nw <- melt(newd, id.vars=c('div', 'month'),var='Type')
+colnames(nw)[colnames(nw) == 'div'] <- 'Census.Division'
 
 ggplot(data = nw, mapping = aes(x = month, y = value, color = Type)) +
   geom_line() +
-  facet_wrap(facets =  vars(HHS.Region)) +
+  facet_wrap(facets =  vars(Census.Division)) +
 theme_fivethirtyeight() +  
     theme( axis.text = element_text( size = 12 ),
            axis.text.x = element_text( size = 9,angle = 45, vjust = 1, hjust=1 ),
-           axis.title = element_text( size = 24, face = "bold" ),
-           legend.position= c(.75,.15), plot.title = element_text(hjust = 0.5), 
-           strip.text = element_text(size = 12)) + ggtitle("Comparison of Opioid-Related Deaths/EMS Incidents for 2017")
+           axis.title = element_text( size = 24, face = "bold" ), plot.title = element_text(hjust = 0.5), 
+           strip.text = element_text(size = 12)) + ggtitle("Comparison of Opioid-Related Deaths (v2)/EMS Incidents for 2017")
 
 # ggplot(data = nw, mapping = aes(x = month, y = value, color = Type)) +
 #   geom_line() +
@@ -106,3 +108,107 @@ theme_fivethirtyeight() +
 #            strip.text = element_text(size = 10)) + ggtitle("Comparison of Opioid-Related Deaths/EMS Incidents for 2017")
 ```
 
+This is a visualization of the number of opioid-related EMS incidents and opioid-related CDC deaths (for the F11 and T40 codes ONLY) for 2017.
+
+```{r other_codes, echo = FALSE}
+ucd <- read.delim("C:/Users/NAMSON/Desktop/N.N.L/capstone-project-2019/data/UCD_Overdoses.txt")
+ucd <- head(ucd,-43)
+colnames(ucd)[colnames(ucd) == 'Census.Division'] <- 'div'
+
+ucd$month <- as.yearmon(ucd$Month.Code, "%Y/%m")
+ucd$month <- as.Date(as.yearmon(ucd$month, "%Y/%m"))
+ucd$month <- as.yearmon(ucd$month)
+
+dnew <- ucd %>% inner_join(ddtable, by=c("div","month"))
+names(dnew)[names(dnew) == 'n'] <- 'EMS Incidents'
+dnew$month <- as.Date(as.yearmon(dnew$month), frac = 1)
+
+dnews <- c("div", "month", "Deaths", "EMS Incidents")
+dnewd <- dnew[dnews]
+names(dnewd)[names(dnewd) == 'Deaths'] <- 'CDC Deaths'
+```
+
+```{r corr}
+cor(dnewd$`CDC Deaths`,dnewd$`EMS Incidents`)
+```
+
+The correlation between opioid-related EMS incidents (when using T11, X40 ICD-10 codes) and opioid-related CDC Deaths (when using X40-X44, X60-X64; X85; Y10-Y14) is 0.64 for the year of 2017.
+
+```{r viz, echo = FALSE}
+dnw <- melt(dnewd, id.vars=c('div', 'month'),var='Type')
+colnames(dnw)[colnames(dnw) == 'div'] <- 'Census.Division'
+
+ggplot(data = dnw, mapping = aes(x = month, y = value, color = Type)) +
+  geom_line() +
+  facet_wrap(facets =  vars(Census.Division)) +
+theme_fivethirtyeight() +  
+    theme( axis.text = element_text( size = 12 ),
+           axis.text.x = element_text( size = 9,angle = 45, vjust = 1, hjust=1 ),
+           axis.title = element_text( size = 24, face = "bold" ),
+        plot.title = element_text(hjust = 0.5), 
+           strip.text = element_text(size = 12)) + ggtitle("Comparison of Opioid-Related Deaths (v1)/EMS Incidents for 2017")
+```
+
+This is a visualization of the number of opioid-related EMS incidents (codes X40-X44, X60-X64, X85, Y10-Y14) and opioid-related CDC deaths (X11, T40). for 2017
+
+```{r suicides, echo = FALSE}
+dnw <- melt(dnewd, id.vars=c('div', 'month'),var='Type')
+
+suic <- data %>% count(div,icd,month)
+suic <- suic[(suic$icd=="T14"),]
+DS <- data.table(suic)
+
+DS$icd <- NULL
+dstable <- DS[, lapply(.SD, sum), by=list(div, month)]
+
+dstable$div <- gsub("New England", "Division 1: New England", dstable$div)
+dstable$div <- gsub("Middle Atlantic", "Division 2: Middle Atlantic", dstable$div)
+dstable$div <- gsub("East North Central", "Division 3: East North Central", dstable$div)
+dstable$div <- gsub("West North Central", "Division 4: West North Central", dstable$div)
+dstable$div <- gsub("South Atlantic", "Division 5: South Atlantic", dstable$div)
+dstable$div <- gsub("East South Central", "Division 6: East South Central", dstable$div)
+dstable$div <- gsub("West South Central", "Division 7: West South Central", dstable$div)
+dstable$div <- gsub("Mountain", "Division 8: Mountain", dstable$div)
+dstable$div <- gsub("Pacific", "Division 9: Pacific", dstable$div)
+
+die <- read.delim("C:/Users/NAMSON/Desktop/N.N.L/capstone-project-2019/data/UCD_Suicides.txt")
+names(die)[names(die) == 'Census.Division'] <- 'div'
+die <- head(die,-30)
+
+die$month <- as.yearmon(die$Month.Code, "%Y/%m")
+die$month <- as.Date(as.yearmon(die$month, "%Y/%m"))
+die$month <- as.yearmon(die$month)
+
+suicide <- die %>% inner_join(dstable, by=c("div","month"))
+names(suicide)[names(suicide) == 'n'] <- 'EMS Suicide Attempts'
+suicide$month <- as.Date(as.yearmon(suicide$month), frac = 1)
+
+snames <- c("div", "month", "Deaths", "EMS Suicide Attempts")
+sub_suicide <- suicide[snames]
+names(sub_suicide)[names(sub_suicide) == 'Deaths'] <- 'CDC Suicides'
+
+```
+
+
+```{r corr}
+cor(sub_suicide$`CDC Suicides`,sub_suicide$`EMS Suicide Attempts`)
+```
+
+The correlation between EMS Suicide Attempts (code: T14.91) and CDC Suicides (codes: X60-X84; Y87; U03) by region is 0.34 for the year of 2017.
+
+```{r viz, echo = FALSE}
+suc <- melt(sub_suicide, id.vars=c('div', 'month'),var='Type')
+colnames(suc)[colnames(suc) == 'div'] <- 'Census.Division'
+
+ggplot(data = suc, mapping = aes(x = month, y = value, color = Type)) +
+  geom_line() +
+  facet_wrap(facets =  vars(Census.Division)) +
+theme_fivethirtyeight() +  
+    theme( axis.text = element_text( size = 12 ),
+           axis.text.x = element_text( size = 9,angle = 45, vjust = 1, hjust=1 ),
+           axis.title = element_text( size = 24, face = "bold" ),
+        plot.title = element_text(hjust = 0.5), 
+           strip.text = element_text(size = 12)) + ggtitle("Comparison of CDC Suicides vs. EMS Suicide Attempts for 2017")
+```
+
+This is a visualization of the number of suicides (as measured by the CDC) and the number of EMS incidents of suicide attempts for 2017. Note that the CDC uses ICD-10 codes X60-X84, Y87, and U03 to classify suicides while the EMS database uses ICD-10 code T14.91 to classify suicide attempts.

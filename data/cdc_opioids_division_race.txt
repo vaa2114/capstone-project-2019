@@ -1,0 +1,302 @@
+"Notes"	"Census Division"	"Census Division Code"	"Race"	"Race Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Division 1: New England"	"CENS-D1"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	10	46340	Unreliable
+	"Division 1: New England"	"CENS-D1"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	18	46580	Unreliable
+	"Division 1: New England"	"CENS-D1"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	19	47045	Unreliable
+	"Division 1: New England"	"CENS-D1"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	17	47205	Unreliable
+	"Division 1: New England"	"CENS-D1"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	12	733927	Unreliable
+	"Division 1: New England"	"CENS-D1"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	31	746032	4.2
+	"Division 1: New England"	"CENS-D1"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	24	773932	3.1
+	"Division 1: New England"	"CENS-D1"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	14	216884	Unreliable
+	"Division 1: New England"	"CENS-D1"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	23	225287	10.2
+	"Division 1: New England"	"CENS-D1"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	30	233488	12.8
+	"Division 1: New England"	"CENS-D1"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	97	982579	9.9
+	"Division 1: New England"	"CENS-D1"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	145	1000774	14.5
+	"Division 1: New England"	"CENS-D1"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	195	1015313	19.2
+	"Division 1: New England"	"CENS-D1"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	257	1037216	24.8
+	"Division 1: New England"	"CENS-D1"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	190	1217601	15.6
+	"Division 1: New England"	"CENS-D1"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	248	1255335	19.8
+	"Division 1: New England"	"CENS-D1"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	377	1282684	29.4
+	"Division 1: New England"	"CENS-D1"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	388	1331835	29.1
+	"Division 1: New England"	"CENS-D1"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	2297	11451642	20.1
+	"Division 1: New England"	"CENS-D1"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	2959	11403176	25.9
+	"Division 1: New England"	"CENS-D1"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	3634	11346947	32.0
+	"Division 1: New England"	"CENS-D1"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	3632	11311783	32.1
+	"Division 1: New England"	"CENS-D1"	"White"	"2106-3"	"Not Stated"	"NS"	"2014"	"2014"	19	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"White"	"2106-3"	"Not Stated"	"NS"	"2015"	"2015"	52	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"White"	"2106-3"	"Not Stated"	"NS"	"2016"	"2016"	35	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"White"	"2106-3"	"Not Stated"	"NS"	"2017"	"2017"	38	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	11	111017	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	21	110375	19.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	21	110629	19.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	29	2989427	1.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	43	3089226	1.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	61	3122646	2.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	84	3228890	2.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	23	973305	2.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	14	997557	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	25	1023193	2.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	33	1048887	3.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	491	5628788	8.7
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	562	5648552	9.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	965	5644762	17.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	1226	5676842	21.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Black or African American"	"2054-5"	"Not Stated"	"NS"	"2015"	"2015"	19	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Black or African American"	"2054-5"	"Not Stated"	"NS"	"2016"	"2016"	15	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Black or African American"	"2054-5"	"Not Stated"	"NS"	"2017"	"2017"	25	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	400	4935832	8.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	575	5026390	11.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	827	5067858	16.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	977	5192502	18.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	3206	26501593	12.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	3822	26345907	14.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	5634	26161595	21.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	6363	26051206	24.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"White"	"2106-3"	"Not Stated"	"NS"	"2014"	"2014"	33	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"White"	"2106-3"	"Not Stated"	"NS"	"2015"	"2015"	42	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"White"	"2106-3"	"Not Stated"	"NS"	"2016"	"2016"	66	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"White"	"2106-3"	"Not Stated"	"NS"	"2017"	"2017"	65	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	30	199120	15.1
+	"Division 3: East North Central"	"CENS-D3"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	40	200093	20.0
+	"Division 3: East North Central"	"CENS-D3"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	53	201719	26.3
+	"Division 3: East North Central"	"CENS-D3"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	72	202958	35.5
+	"Division 3: East North Central"	"CENS-D3"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	19	1556646	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	18	1623347	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	34	1658502	2.1
+	"Division 3: East North Central"	"CENS-D3"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	52	1724898	3.0
+	"Division 3: East North Central"	"CENS-D3"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	14	212933	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	12	217953	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	883	5898103	15.0
+	"Division 3: East North Central"	"CENS-D3"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	1007	5922137	17.0
+	"Division 3: East North Central"	"CENS-D3"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	1525	5931466	25.7
+	"Division 3: East North Central"	"CENS-D3"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	2034	5963636	34.1
+	"Division 3: East North Central"	"CENS-D3"	"Black or African American"	"2054-5"	"Not Stated"	"NS"	"2015"	"2015"	19	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Black or African American"	"2054-5"	"Not Stated"	"NS"	"2016"	"2016"	32	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Black or African American"	"2054-5"	"Not Stated"	"NS"	"2017"	"2017"	36	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	236	3460286	6.8
+	"Division 3: East North Central"	"CENS-D3"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	265	3514944	7.5
+	"Division 3: East North Central"	"CENS-D3"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	448	3546813	12.6
+	"Division 3: East North Central"	"CENS-D3"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	538	3622494	14.9
+	"Division 3: East North Central"	"CENS-D3"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	5102	35248168	14.5
+	"Division 3: East North Central"	"CENS-D3"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	6081	35141917	17.3
+	"Division 3: East North Central"	"CENS-D3"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	8080	35028303	23.1
+	"Division 3: East North Central"	"CENS-D3"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	9332	34973439	26.7
+	"Division 3: East North Central"	"CENS-D3"	"White"	"2106-3"	"Not Stated"	"NS"	"2014"	"2014"	14	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"White"	"2106-3"	"Not Stated"	"NS"	"2015"	"2015"	34	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"White"	"2106-3"	"Not Stated"	"NS"	"2016"	"2016"	35	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"White"	"2106-3"	"Not Stated"	"NS"	"2017"	"2017"	41	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	46	270743	17.0
+	"Division 4: West North Central"	"CENS-D4"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	58	273557	21.2
+	"Division 4: West North Central"	"CENS-D4"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	65	275178	23.6
+	"Division 4: West North Central"	"CENS-D4"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	75	276936	27.1
+	"Division 4: West North Central"	"CENS-D4"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	11	657724	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	16	675552	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	11	704721	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	203	1530368	13.3
+	"Division 4: West North Central"	"CENS-D4"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	214	1555322	13.8
+	"Division 4: West North Central"	"CENS-D4"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	357	1584796	22.5
+	"Division 4: West North Central"	"CENS-D4"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	416	1621763	25.7
+	"Division 4: West North Central"	"CENS-D4"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	25	1122115	2.2
+	"Division 4: West North Central"	"CENS-D4"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	28	1152800	2.4
+	"Division 4: West North Central"	"CENS-D4"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	39	1170330	3.3
+	"Division 4: West North Central"	"CENS-D4"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	67	1210499	5.5
+	"Division 4: West North Central"	"CENS-D4"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	1436	17313222	8.3
+	"Division 4: West North Central"	"CENS-D4"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	1436	17331350	8.3
+	"Division 4: West North Central"	"CENS-D4"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	1646	17325918	9.5
+	"Division 4: West North Central"	"CENS-D4"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	1677	17321121	9.7
+	"Division 5: South Atlantic"	"CENS-D5"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	34	276562	12.3
+	"Division 5: South Atlantic"	"CENS-D5"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	33	279238	11.8
+	"Division 5: South Atlantic"	"CENS-D5"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	48	281056	17.1
+	"Division 5: South Atlantic"	"CENS-D5"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	52	283442	18.3
+	"Division 5: South Atlantic"	"CENS-D5"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	34	2400499	1.4
+	"Division 5: South Atlantic"	"CENS-D5"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	45	2506160	1.8
+	"Division 5: South Atlantic"	"CENS-D5"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	70	2557886	2.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	85	2664897	3.2
+	"Division 5: South Atlantic"	"CENS-D5"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	12	625492	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	27	675425	4.0
+	"Division 5: South Atlantic"	"CENS-D5"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	26	704574	3.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	940	13939104	6.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	1221	14138215	8.6
+	"Division 5: South Atlantic"	"CENS-D5"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	1956	14323678	13.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	2350	14523250	16.2
+	"Division 5: South Atlantic"	"CENS-D5"	"Black or African American"	"2054-5"	"Not Stated"	"NS"	"2014"	"2014"	24	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Black or African American"	"2054-5"	"Not Stated"	"NS"	"2015"	"2015"	11	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Black or African American"	"2054-5"	"Not Stated"	"NS"	"2016"	"2016"	20	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	244	7429110	3.3
+	"Division 5: South Atlantic"	"CENS-D5"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	338	7657761	4.4
+	"Division 5: South Atlantic"	"CENS-D5"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	616	7857147	7.8
+	"Division 5: South Atlantic"	"CENS-D5"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	695	8208274	8.5
+	"Division 5: South Atlantic"	"CENS-D5"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	5698	37545060	15.2
+	"Division 5: South Atlantic"	"CENS-D5"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	6697	37737194	17.7
+	"Division 5: South Atlantic"	"CENS-D5"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	9020	37911525	23.8
+	"Division 5: South Atlantic"	"CENS-D5"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	10244	37993228	27.0
+	"Division 5: South Atlantic"	"CENS-D5"	"White"	"2106-3"	"Not Stated"	"NS"	"2014"	"2014"	44	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"White"	"2106-3"	"Not Stated"	"NS"	"2015"	"2015"	30	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"White"	"2106-3"	"Not Stated"	"NS"	"2016"	"2016"	19	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"White"	"2106-3"	"Not Stated"	"NS"	"2017"	"2017"	45	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	169	3940598	4.3
+	"Division 6: East South Central"	"CENS-D6"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	234	3964755	5.9
+	"Division 6: East South Central"	"CENS-D6"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	376	3981571	9.4
+	"Division 6: East South Central"	"CENS-D6"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	442	4004009	11.0
+	"Division 6: East South Central"	"CENS-D6"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	17	665313	Unreliable
+	"Division 6: East South Central"	"CENS-D6"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	31	681141	4.6
+	"Division 6: East South Central"	"CENS-D6"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	38	691305	5.5
+	"Division 6: East South Central"	"CENS-D6"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	36	724341	5.0
+	"Division 6: East South Central"	"CENS-D6"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	2066	13734519	15.0
+	"Division 6: East South Central"	"CENS-D6"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	2423	13747595	17.6
+	"Division 6: East South Central"	"CENS-D6"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	2684	13774382	19.5
+	"Division 6: East South Central"	"CENS-D6"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	3036	13791190	22.0
+	"Division 6: East South Central"	"CENS-D6"	"White"	"2106-3"	"Not Stated"	"NS"	"2014"	"2014"	10	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"White"	"2106-3"	"Not Stated"	"NS"	"2015"	"2015"	10	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"White"	"2106-3"	"Not Stated"	"NS"	"2017"	"2017"	11	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	67	522757	12.8
+	"Division 7: West South Central"	"CENS-D7"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	52	528939	9.8
+	"Division 7: West South Central"	"CENS-D7"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	67	532822	12.6
+	"Division 7: West South Central"	"CENS-D7"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	42	536779	7.8
+	"Division 7: West South Central"	"CENS-D7"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	15	1486843	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	13	1576394	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	21	1631488	1.3
+	"Division 7: West South Central"	"CENS-D7"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	21	1709542	1.2
+	"Division 7: West South Central"	"CENS-D7"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	405	5560187	7.3
+	"Division 7: West South Central"	"CENS-D7"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	457	5650953	8.1
+	"Division 7: West South Central"	"CENS-D7"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	545	5733378	9.5
+	"Division 7: West South Central"	"CENS-D7"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	615	5815421	10.6
+	"Division 7: West South Central"	"CENS-D7"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	380	10612821	3.6
+	"Division 7: West South Central"	"CENS-D7"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	458	10876356	4.2
+	"Division 7: West South Central"	"CENS-D7"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	529	11088324	4.8
+	"Division 7: West South Central"	"CENS-D7"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	579	11374527	5.1
+	"Division 7: West South Central"	"CENS-D7"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	1901	19654708	9.7
+	"Division 7: West South Central"	"CENS-D7"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	2013	19760045	10.2
+	"Division 7: West South Central"	"CENS-D7"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	2076	19818608	10.5
+	"Division 7: West South Central"	"CENS-D7"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	2334	19815298	11.8
+	"Division 7: West South Central"	"CENS-D7"	"White"	"2106-3"	"Not Stated"	"NS"	"2015"	"2015"	16	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"White"	"2106-3"	"Not Stated"	"NS"	"2016"	"2016"	16	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	15	268992	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	11	277575	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	12	285081	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	19	293934	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	71	672381	10.6
+	"Division 8: Mountain"	"CENS-D8"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	62	678574	9.1
+	"Division 8: Mountain"	"CENS-D8"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	81	687528	11.8
+	"Division 8: Mountain"	"CENS-D8"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	77	693227	11.1
+	"Division 8: Mountain"	"CENS-D8"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	26	860441	3.0
+	"Division 8: Mountain"	"CENS-D8"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	22	901393	2.4
+	"Division 8: Mountain"	"CENS-D8"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	19	922734	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	25	961137	2.6
+	"Division 8: Mountain"	"CENS-D8"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	10	161460	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	112	925969	12.1
+	"Division 8: Mountain"	"CENS-D8"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	123	956429	12.9
+	"Division 8: Mountain"	"CENS-D8"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	137	982780	13.9
+	"Division 8: Mountain"	"CENS-D8"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	162	1016486	15.9
+	"Division 8: Mountain"	"CENS-D8"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	536	5159048	10.4
+	"Division 8: Mountain"	"CENS-D8"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	541	5265513	10.3
+	"Division 8: Mountain"	"CENS-D8"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	612	5361398	11.4
+	"Division 8: Mountain"	"CENS-D8"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	681	5488290	12.4
+	"Division 8: Mountain"	"CENS-D8"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	2137	15074890	14.2
+	"Division 8: Mountain"	"CENS-D8"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	2178	15207788	14.3
+	"Division 8: Mountain"	"CENS-D8"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	2347	15365096	15.3
+	"Division 8: Mountain"	"CENS-D8"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	2461	15447922	15.9
+	"Division 8: Mountain"	"CENS-D8"	"White"	"2106-3"	"Not Stated"	"NS"	"2014"	"2014"	16	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"White"	"2106-3"	"Not Stated"	"NS"	"2015"	"2015"	25	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"White"	"2106-3"	"Not Stated"	"NS"	"2016"	"2016"	29	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"White"	"2106-3"	"Not Stated"	"NS"	"2017"	"2017"	25	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	11	650066	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	16	657887	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	24	662493	3.6
+	"Division 9: Pacific"	"CENS-D9"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	20	669953	3.0
+	"Division 9: Pacific"	"CENS-D9"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	92	495203	18.6
+	"Division 9: Pacific"	"CENS-D9"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	105	497620	21.1
+	"Division 9: Pacific"	"CENS-D9"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	103	500606	20.6
+	"Division 9: Pacific"	"CENS-D9"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	148	502260	29.5
+	"Division 9: Pacific"	"CENS-D9"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	14	466553	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	103	7521792	1.4
+	"Division 9: Pacific"	"CENS-D9"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	109	7725508	1.4
+	"Division 9: Pacific"	"CENS-D9"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	143	7854925	1.8
+	"Division 9: Pacific"	"CENS-D9"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	145	8087506	1.8
+	"Division 9: Pacific"	"CENS-D9"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	346	2910823	11.9
+	"Division 9: Pacific"	"CENS-D9"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	337	2940346	11.5
+	"Division 9: Pacific"	"CENS-D9"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	375	2943925	12.7
+	"Division 9: Pacific"	"CENS-D9"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	401	2965739	13.5
+	"Division 9: Pacific"	"CENS-D9"	"Black or African American"	"2054-5"	"Not Stated"	"NS"	"2016"	"2016"	10	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"Black or African American"	"2054-5"	"Not Stated"	"NS"	"2017"	"2017"	10	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2014"	"2014"	528	14979548	3.5
+	"Division 9: Pacific"	"CENS-D9"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2015"	"2015"	517	15202533	3.4
+	"Division 9: Pacific"	"CENS-D9"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2016"	"2016"	563	15312195	3.7
+	"Division 9: Pacific"	"CENS-D9"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"2017"	"2017"	681	15542095	4.4
+	"Division 9: Pacific"	"CENS-D9"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2014"	"2014"	2824	24524991	11.5
+	"Division 9: Pacific"	"CENS-D9"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2015"	"2015"	2925	24567309	11.9
+	"Division 9: Pacific"	"CENS-D9"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2016"	"2016"	2965	24592386	12.1
+	"Division 9: Pacific"	"CENS-D9"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"2017"	"2017"	3048	24535606	12.4
+	"Division 9: Pacific"	"CENS-D9"	"White"	"2106-3"	"Not Stated"	"NS"	"2014"	"2014"	26	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"White"	"2106-3"	"Not Stated"	"NS"	"2015"	"2015"	21	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"White"	"2106-3"	"Not Stated"	"NS"	"2016"	"2016"	43	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"White"	"2106-3"	"Not Stated"	"NS"	"2017"	"2017"	30	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: F11.0 (Mental and behavioural disorders due to use of opioids, acute intoxication); F11.1 (Mental and"
+"behavioural disorders due to use of opioids, harmful use); F11.2 (Mental and behavioural disorders due to use of opioids,"
+"dependence syndrome); F11.3 (Mental and behavioural disorders due to use of opioids, withdrawal state); F11.4 (Mental and"
+"behavioural disorders due to use of opioids, withdrawal state with delirium); F11.5 (Mental and behavioural disorders due to use"
+"of opioids, psychotic disorder); F11.6 (Mental and behavioural disorders due to use of opioids, amnesic syndrome); F11.7 (Mental"
+"and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder); F11.8 (Mental and behavioural"
+"disorders due to use of opioids, other mental and behavioural disorders); F11.9 (Mental and behavioural disorders due to use of"
+"opioids, unspecified mental and behavioural disorder); T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone);"
+"T40.4 (Other synthetic narcotics); T40.5 (Cocaine); T40.6 (Other and unspecified narcotics); T40.7 (Cannabis (derivatives));"
+"T40.8 (Lysergide [LSD]); T40.9 (Other and unspecified psychodysleptics [hallucinogens])"
+"Year/Month: 2014; 2015; 2016; 2017"
+"Group By: Census Division; Race; Hispanic Origin; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 13, 2019 2:06:39 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Oct 13, 2019 2:06:39 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"5. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"6. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
