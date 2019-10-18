@@ -80,32 +80,32 @@ colnames(nw)[colnames(nw) == 'div'] <- 'Census.Division'
 
 ggplot(data = nw, mapping = aes(x = month, y = value, color = Type)) +
   geom_line() +
-  facet_wrap(facets =  vars(Census.Division)) +
-theme_fivethirtyeight() +  
+  facet_wrap(facets =  vars(Census.Division), scales = "free_y") +
+theme_bw() +  
     theme( axis.text = element_text( size = 12 ),
            axis.text.x = element_text( size = 9,angle = 45, vjust = 1, hjust=1 ),
            axis.title = element_text( size = 24, face = "bold" ), plot.title = element_text(hjust = 0.5), 
            strip.text = element_text(size = 12)) + ggtitle("Comparison of Opioid-Related Deaths (v2)/EMS Incidents for 2017")
 
-# ggplot(data = nw, mapping = aes(x = month, y = value, color = Type)) +
-#   geom_line() +
-#   facet_grid(rows = vars(Type), cols =  vars(HHS.Region)) +
-#     theme_fivethirtyeight() + 
-#     theme( axis.text = element_text( size = 10 ),
-#            axis.text.x = element_text( size = 10,angle = 45, vjust = 1, hjust=1 ),
-#            axis.title = element_text( size = 16, face = "bold" ),
-#             plot.title = element_text(hjust = 0.5), 
-#            strip.text = element_text(size = 10)) + ggtitle("Comparison of Opioid-Related Deaths/EMS Incidents for 2017")
-# 
-# ggplot(data = nw, mapping = aes(x = month, y = value, color = Type)) +
-#   geom_line() +
-#   facet_grid(cols = vars(HHS.Region)) +
-#     theme_fivethirtyeight() + 
-#     theme( axis.text = element_text( size = 10 ),
-#            axis.text.x = element_text( size = 10,angle = 45, vjust = 1, hjust=1 ),
-#            axis.title = element_text( size = 16, face = "bold" ),
-#             plot.title = element_text(hjust = 0.5), 
-#            strip.text = element_text(size = 10)) + ggtitle("Comparison of Opioid-Related Deaths/EMS Incidents for 2017")
+ggplot(data = nw, mapping = aes(x = month, y = value, color = Type)) +
+  geom_line() +
+  facet_grid(rows = vars(Type), cols =  vars(Census.Division)) +
+    theme_bw() +
+    theme( axis.text = element_text( size = 10 ),
+           axis.text.x = element_text( size = 10,angle = 45, vjust = 1, hjust=1 ),
+           axis.title = element_text( size = 16, face = "bold" ),
+            plot.title = element_text(hjust = 0.5),
+           strip.text = element_text(size = 10)) + ggtitle("Comparison of Opioid-Related Deaths/EMS Incidents for 2017")
+
+ggplot(data = nw, mapping = aes(x = month, y = value, color = Type)) +
+  geom_line() +
+  facet_grid(cols = vars(Census.Division)) +
+    theme_bw() +
+    theme( axis.text = element_text( size = 10 ),
+           axis.text.x = element_text( size = 10,angle = 45, vjust = 1, hjust=1 ),
+           axis.title = element_text( size = 16, face = "bold" ),
+            plot.title = element_text(hjust = 0.5),
+           strip.text = element_text(size = 10)) + ggtitle("Comparison of Opioid-Related Deaths/EMS Incidents for 2017")
 ```
 
 This is a visualization of the number of opioid-related EMS incidents and opioid-related CDC deaths (for the F11 and T40 codes ONLY) for 2017.
